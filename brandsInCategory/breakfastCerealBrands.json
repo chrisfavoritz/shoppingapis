@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "name": "Kellogg's",
+      "img": "placeholder"
+    },
+    {
+      "name": "General Mills",
+      "img": "placeholder"
+    },
+    {
+      "name": "Post Consumer Brands",
+      "img": "placeholder"
+    },
+    {
+      "name": "Quaker Oats",
+      "img": "placeholder"
+    },
+    {
+      "name": "Nature's Path",
+      "img": "placeholder"
+    },
+    {
+      "name": "Barbara's Bakery",
+      "img": "placeholder"
+    },
+    {
+      "name": "Kashi",
+      "img": "placeholder"
+    },
+    {
+      "name": "Cascadian Farm",
+      "img": "placeholder"
+    },
+    {
+      "name": "Malt-O-Meal",
+      "img": "placeholder"
+    },
+    {
+      "name": "Bear Naked",
+      "img": "placeholder"
+    },
+    {
+      "name": "Ralston Foods",
+      "img": "placeholder"
+    },
+    {
+      "name": "Weetabix",
+      "img": "placeholder"
+    },
+    {
+      "name": "Erewhon",
+      "img": "placeholder"
+    },
+    {
+      "name": "Uncle Sam",
+      "img": "placeholder"
+    },
+    {
+      "name": "Chex",
+      "img": "placeholder"
+    },
+    {
+      "name": "Grape-Nuts",
+      "img": "placeholder"
+    },
+    {
+      "name": "Cap'n Crunch",
+      "img": "placeholder"
+    },
+    {
+      "name": "Cheerios",
+      "img": "placeholder"
+    },
+    {
+      "name": "Froot Loops",
+      "img": "placeholder"
+    },
+    {
+      "name": "Lucky Charms",
+      "img": "placeholder"
+    }
+  ]
+}
