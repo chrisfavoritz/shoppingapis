@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "name": "Gucci",
+      "img": "placeholder"
+    },
+    {
+      "name": "Louis Vuitton",
+      "img": "placeholder"
+    },
+    {
+      "name": "Prada",
+      "img": "placeholder"
+    },
+    {
+      "name": "Chanel",
+      "img": "placeholder"
+    },
+    {
+      "name": "Dolce & Gabbana",
+      "img": "placeholder"
+    },
+    {
+      "name": "Burberry",
+      "img": "placeholder"
+    },
+    {
+      "name": "Hermes",
+      "img": "placeholder"
+    },
+    {
+      "name": "Armani",
+      "img": "placeholder"
+    },
+    {
+      "name": "Yves Saint Laurent",
+      "img": "placeholder"
+    },
+    {
+      "name": "Dior",
+      "img": "placeholder"
+    },
+    {
+      "name": "Versace",
+      "img": "placeholder"
+    },
+    {
+      "name": "Fendi",
+      "img": "placeholder"
+    },
+    {
+      "name": "Cartier",
+      "img": "placeholder"
+    },
+    {
+      "name": "Bottega Veneta",
+      "img": "placeholder"
+    },
+    {
+      "name": "Tom Ford",
+      "img": "placeholder"
+    }
+  ]
+}
