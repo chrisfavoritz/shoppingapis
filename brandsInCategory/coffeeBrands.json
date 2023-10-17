@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "name": "Starbucks",
+      "img": "placeholder"
+    },
+    {
+      "name": "Nespresso",
+      "img": "placeholder"
+    },
+    {
+      "name": "Dunkin' Donuts",
+      "img": "placeholder"
+    },
+    {
+      "name": "Tim Hortons",
+      "img": "placeholder"
+    },
+    {
+      "name": "Keurig",
+      "img": "placeholder"
+    },
+    {
+      "name": "Folgers",
+      "img": "placeholder"
+    },
+    {
+      "name": "McCafe",
+      "img": "placeholder"
+    },
+    {
+      "name": "Peet's Coffee",
+      "img": "placeholder"
+    },
+    {
+      "name": "Caribou Coffee",
+      "img": "placeholder"
+    },
+    {
+      "name": "Maxwell House",
+      "img": "placeholder"
+    },
+    {
+      "name": "Seattle's Best Coffee",
+      "img": "placeholder"
+    },
+    {
+      "name": "Green Mountain Coffee Roasters",
+      "img": "placeholder"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "img": "placeholder"
+    },
+    {
+      "name": "Stumptown Coffee Roasters",
+      "img": "placeholder"
+    },
+    {
+      "name": "Blue Bottle Coffee",
+      "img": "placeholder"
+    },
+    {
+      "name": "Lavazza",
+      "img": "placeholder"
+    },
+    {
+      "name": "Eight O'Clock Coffee",
+      "img": "placeholder"
+    },
+    {
+      "name": "Krispy Kreme",
+      "img": "placeholder"
+    },
+    {
+      "name": "Second Cup",
+      "img": "placeholder"
+    },
+    {
+      "name": "Tully's Coffee",
+      "img": "placeholder"
+    },
+    {
+      "name": "Allegro Coffee",
+      "img": "placeholder"
+    }
+  ]
+}
