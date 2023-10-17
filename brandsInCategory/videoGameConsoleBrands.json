@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "name": "Sony PlayStation",
+      "img": "placeholder"
+    },
+    {
+      "name": "Microsoft Xbox",
+      "img": "placeholder"
+    },
+    {
+      "name": "Nintendo",
+      "img": "placeholder"
+    },
+    {
+      "name": "Oculus",
+      "img": "placeholder"
+    },
+    {
+      "name": "Valve",
+      "img": "placeholder"
+    },
+    {
+      "name": "HTC Vive",
+      "img": "placeholder"
+    }
+  ]
+}
