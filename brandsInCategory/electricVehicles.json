@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "name": "Tesla Model 3",
+      "img": "placeholder"
+    },
+    {
+      "name": "Tesla Model Y",
+      "img": "placeholder"
+    },
+    {
+      "name": "Chevrolet Bolt EV",
+      "img": "placeholder"
+    },
+    {
+      "name": "Nissan Leaf",
+      "img": "placeholder"
+    },
+    {
+      "name": "Tesla Model X",
+      "img": "placeholder"
+    },
+    {
+      "name": "BMW i7 xDrive60",
+      "img": "placeholder"
+    },
+    {
+      "name": "BMW iX xDrive40",
+      "img": "placeholder"
+    },
+    {
+      "name": "BMW i4 eDrive35",
+      "img": "placeholder"
+    },
+    {
+      "name": "BMW i5 M60 xDRIVE",
+      "img": "placeholder"
+    },
+    {
+      "name": "Rivian R1T",
+      "img": "placeholder"
+    },
+    {
+      "name": "Volkswagen ID.4",
+      "img": "placeholder"
+    },
+    {
+      "name": "Kia EV6",
+      "img": "placeholder"
+    },
+    {
+      "name": "Hyundai Ioniq 5",
+      "img": "placeholder"
+    },
+    {
+      "name": "Ford Mustang Mach-E",
+      "img": "placeholder"
+    },
+    {
+      "name": "Tesla Model S",
+      "img": "placeholder"
+    },
+    {
+      "name": "Chevrolet Bolt EUV",
+      "img": "placeholder"
+    }
+  ]
+}
