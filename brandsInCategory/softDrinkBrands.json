@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "name": "Coca-Cola",
+      "img": "placeholder"
+    },
+    {
+      "name": "Pepsi",
+      "img": "placeholder"
+    },
+    {
+      "name": "Dr Pepper",
+      "img": "placeholder"
+    },
+    {
+      "name": "Mountain Dew",
+      "img": "placeholder"
+    },
+    {
+      "name": "Sprite",
+      "img": "placeholder"
+    },
+    {
+      "name": "Fanta",
+      "img": "placeholder"
+    },
+    {
+      "name": "7UP",
+      "img": "placeholder"
+    },
+    {
+      "name": "A&W Root Beer",
+      "img": "placeholder"
+    },
+    {
+      "name": "Canada Dry",
+      "img": "placeholder"
+    },
+    {
+      "name": "Sunkist",
+      "img": "placeholder"
+    },
+    {
+      "name": "Crush",
+      "img": "placeholder"
+    },
+    {
+      "name": "Sierra Mist",
+      "img": "placeholder"
+    },
+    {
+      "name": "Barq's",
+      "img": "placeholder"
+    },
+    {
+      "name": "RC Cola",
+      "img": "placeholder"
+    },
+    {
+      "name": "Schweppes",
+      "img": "placeholder"
+    },
+    {
+      "name": "Jones Soda",
+      "img": "placeholder"
+    },
+    {
+      "name": "Mello Yello",
+      "img": "placeholder"
+    },
+    {
+      "name": "Cactus Cooler",
+      "img": "placeholder"
+    },
+    {
+      "name": "Cheerwine",
+      "img": "placeholder"
+    },
+    {
+      "name": "Squirt",
+      "img": "placeholder"
+    }
+  ]
+}
