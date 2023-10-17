@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "name": "Apple",
+      "img": "placeholder"
+    },
+    {
+      "name": "Dell",
+      "img": "placeholder"
+    },
+    {
+      "name": "HP (Hewlett-Packard)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Lenovo",
+      "img": "placeholder"
+    },
+    {
+      "name": "Microsoft",
+      "img": "placeholder"
+    },
+    {
+      "name": "ASUS",
+      "img": "placeholder"
+    },
+    {
+      "name": "Acer",
+      "img": "placeholder"
+    },
+    {
+      "name": "MSI (Micro-Star International)",
+      "img": "placeholder"
+    },
+    {
+      "name": "LG",
+      "img": "placeholder"
+    },
+    {
+      "name": "Razer",
+      "img": "placeholder"
+    },
+    {
+      "name": "Samsung",
+      "img": "placeholder"
+    },
+    {
+      "name": "Toshiba",
+      "img": "placeholder"
+    },
+    {
+      "name": "Alienware (a subsidiary of Dell)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Google (for Chromebooks)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Huawei",
+      "img": "placeholder"
+    }
+  ]
+}
