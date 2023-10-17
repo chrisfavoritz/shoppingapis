@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "name": "Macy's",
+      "img": "placeholder"
+    },
+    {
+      "name": "Nordstrom",
+      "img": "placeholder"
+    },
+    {
+      "name": "Neiman Marcus",
+      "img": "placeholder"
+    },
+    {
+      "name": "Saks Fifth Avenue",
+      "img": "placeholder"
+    },
+    {
+      "name": "Bloomingdale's",
+      "img": "placeholder"
+    },
+    {
+      "name": "JCPenney",
+      "img": "placeholder"
+    },
+    {
+      "name": "Kohl's",
+      "img": "placeholder"
+    },
+    {
+      "name": "Dillard's",
+      "img": "placeholder"
+    },
+    {
+      "name": "Belk",
+      "img": "placeholder"
+    },
+    {
+      "name": "Hudson's Bay Company",
+      "img": "placeholder"
+    },
+    {
+      "name": "Sears",
+      "img": "placeholder"
+    },
+    {
+      "name": "Von Maur",
+      "img": "placeholder"
+    },
+    {
+      "name": "Bergdorf Goodman",
+      "img": "placeholder"
+    },
+    {
+      "name": "Boscov's",
+      "img": "placeholder"
+    },
+    {
+      "name": "Target",
+      "img": "placeholder"
+    },
+    {
+      "name": "Walmart",
+      "img": "placeholder"
+    },
+    {
+      "name": "Costco",
+      "img": "placeholder"
+    },
+    {
+      "name": "Sam's Club",
+      "img": "placeholder"
+    }
+  ]
+}
