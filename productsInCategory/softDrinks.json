@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "name": "Coca-Cola",
+      "img": "placeholder"
+    },
+    {
+      "name": "Pepsi",
+      "img": "placeholder"
+    },
+    {
+      "name": "Dr Pepper",
+      "img": "placeholder"
+    },
+    {
+      "name": "Sprite",
+      "img": "placeholder"
+    },
+    {
+      "name": "Mountain Dew",
+      "img": "placeholder"
+    },
+    {
+      "name": "Fanta",
+      "img": "placeholder"
+    },
+    {
+      "name": "7UP",
+      "img": "placeholder"
+    },
+    {
+      "name": "A&W Root Beer",
+      "img": "placeholder"
+    },
+    {
+      "name": "Canada Dry Ginger Ale",
+      "img": "placeholder"
+    },
+    {
+      "name": "Diet Coke",
+      "img": "placeholder"
+    },
+    {
+      "name": "Diet Pepsi",
+      "img": "placeholder"
+    },
+    {
+      "name": "Sunkist",
+      "img": "placeholder"
+    },
+    {
+      "name": "Barq's Root Beer",
+      "img": "placeholder"
+    },
+    {
+      "name": "Sierra Mist",
+      "img": "placeholder"
+    },
+    {
+      "name": "Fresca",
+      "img": "placeholder"
+    },
+    {
+      "name": "RC Cola",
+      "img": "placeholder"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar",
+      "img": "placeholder"
+    },
+    {
+      "name": "Pepsi Zero Sugar",
+      "img": "placeholder"
+    },
+    {
+      "name": "Mello Yello",
+      "img": "placeholder"
+    },
+    {
+      "name": "Sprite Zero Sugar",
+      "img": "placeholder"
+    }
+  ]
+}
