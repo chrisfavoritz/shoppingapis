@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "name": "McDonald's",
+      "img": "placeholder"
+    },
+    {
+      "name": "Starbucks",
+      "img": "placeholder"
+    },
+    {
+      "name": "Subway",
+      "img": "placeholder"
+    },
+    {
+      "name": "Burger King",
+      "img": "placeholder"
+    },
+    {
+      "name": "Taco Bell",
+      "img": "placeholder"
+    },
+    {
+      "name": "Wendy's",
+      "img": "placeholder"
+    },
+    {
+      "name": "Dunkin'",
+      "img": "placeholder"
+    },
+    {
+      "name": "Chick-fil-A",
+      "img": "placeholder"
+    },
+    {
+      "name": "Domino's",
+      "img": "placeholder"
+    },
+    {
+      "name": "Pizza Hut",
+      "img": "placeholder"
+    },
+    {
+      "name": "KFC (Kentucky Fried Chicken)",
+      "img": "placeholder"
+    },
+    {
+      "name": "Tim Hortons",
+      "img": "placeholder"
+    },
+    {
+      "name": "Panera Bread",
+      "img": "placeholder"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "img": "placeholder"
+    },
+    {
+      "name": "Dairy Queen",
+      "img": "placeholder"
+    },
+    {
+      "name": "Papa John's",
+      "img": "placeholder"
+    },
+    {
+      "name": "Arby's",
+      "img": "placeholder"
+    },
+    {
+      "name": "Little Caesars",
+      "img": "placeholder"
+    },
+    {
+      "name": "Chipotle Mexican Grill",
+      "img": "placeholder"
+    },
+    {
+      "name": "Popeye's",
+      "img": "placeholder"
+    }
+  ]
+}
