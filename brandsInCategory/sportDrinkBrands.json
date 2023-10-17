@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "name": "Gatorade",
+      "img": "placeholder"
+    },
+    {
+      "name": "Powerade",
+      "img": "placeholder"
+    },
+    {
+      "name": "BodyArmor",
+      "img": "placeholder"
+    },
+    {
+      "name": "Vitaminwater",
+      "img": "placeholder"
+    },
+    {
+      "name": "Propel",
+      "img": "placeholder"
+    },
+    {
+      "name": "Prime",
+      "img": "placeholder"
+    }
+  ]
+}
