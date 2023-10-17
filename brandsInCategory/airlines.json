@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "name": "American Airlines",
+      "img": "placeholder"
+    },
+    {
+      "name": "United Airlines",
+      "img": "placeholder"
+    },
+    {
+      "name": "Delta Air Lines",
+      "img": "placeholder"
+    },
+    {
+      "name": "Southwest Airlines",
+      "img": "placeholder"
+    },
+    {
+      "name": "Alaska Airlines",
+      "img": "placeholder"
+    },
+    {
+      "name": "JetBlue Airways",
+      "img": "placeholder"
+    },
+    {
+      "name": "Air Canada",
+      "img": "placeholder"
+    },
+    {
+      "name": "WestJet",
+      "img": "placeholder"
+    },
+    {
+      "name": "Spirit Airlines",
+      "img": "placeholder"
+    },
+    {
+      "name": "Frontier Airlines",
+      "img": "placeholder"
+    },
+    {
+      "name": "Allegiant Air",
+      "img": "placeholder"
+    },
+    {
+      "name": "Hawaiian Airlines",
+      "img": "placeholder"
+    },
+    {
+      "name": "Aeromexico",
+      "img": "placeholder"
+    },
+    {
+      "name": "Volaris",
+      "img": "placeholder"
+    },
+    {
+      "name": "Sun Country Airlines",
+      "img": "placeholder"
+    },
+    {
+      "name": "Porter Airlines",
+      "img": "placeholder"
+    },
+    {
+      "name": "Air Transat",
+      "img": "placeholder"
+    },
+    {
+      "name": "Swoop",
+      "img": "placeholder"
+    },
+    {
+      "name": "Flair Airlines",
+      "img": "placeholder"
+    }
+  ]
+}
