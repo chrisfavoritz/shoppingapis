@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "name": "Bose",
+      "img": "placeholder"
+    },
+    {
+      "name": "Sony",
+      "img": "placeholder"
+    },
+    {
+      "name": "Sennheiser",
+      "img": "placeholder"
+    },
+    {
+      "name": "Beats by Dre",
+      "img": "placeholder"
+    },
+    {
+      "name": "Apple Inc.",
+      "img": "placeholder"
+    },
+    {
+      "name": "Audio-Technica",
+      "img": "placeholder"
+    },
+    {
+      "name": "Skullcandy",
+      "img": "placeholder"
+    },
+    {
+      "name": "JBL",
+      "img": "placeholder"
+    },
+    {
+      "name": "Bang & Olufsen",
+      "img": "placeholder"
+    },
+    {
+      "name": "AKG",
+      "img": "placeholder"
+    },
+    {
+      "name": "Beyerdynamic",
+      "img": "placeholder"
+    },
+    {
+      "name": "Shure",
+      "img": "placeholder"
+    },
+    {
+      "name": "Logitech",
+      "img": "placeholder"
+    },
+    {
+      "name": "Anker",
+      "img": "placeholder"
+    },
+    {
+      "name": "Plantronics",
+      "img": "placeholder"
+    },
+    {
+      "name": "Jabra",
+      "img": "placeholder"
+    }
+  ]
+}
