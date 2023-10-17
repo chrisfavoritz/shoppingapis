@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "name": "Purina",
+      "img": "placeholder"
+    },
+    {
+      "name": "Blue Buffalo",
+      "img": "placeholder"
+    },
+    {
+      "name": "Hill's Science Diet",
+      "img": "placeholder"
+    },
+    {
+      "name": "Royal Canin",
+      "img": "placeholder"
+    },
+    {
+      "name": "Pedigree",
+      "img": "placeholder"
+    },
+    {
+      "name": "Iams",
+      "img": "placeholder"
+    },
+    {
+      "name": "Wellness",
+      "img": "placeholder"
+    },
+    {
+      "name": "Nutro",
+      "img": "placeholder"
+    },
+    {
+      "name": "Merrick",
+      "img": "placeholder"
+    },
+    {
+      "name": "Taste of the Wild",
+      "img": "placeholder"
+    },
+    {
+      "name": "Natural Balance",
+      "img": "placeholder"
+    },
+    {
+      "name": "Fancy Feast",
+      "img": "placeholder"
+    },
+    {
+      "name": "Rachael Ray Nutrish",
+      "img": "placeholder"
+    },
+    {
+      "name": "Friskies",
+      "img": "placeholder"
+    },
+    {
+      "name": "Eukanuba",
+      "img": "placeholder"
+    },
+    {
+      "name": "Orijen",
+      "img": "placeholder"
+    },
+    {
+      "name": "Honest Kitchen",
+      "img": "placeholder"
+    },
+    {
+      "name": "Acana",
+      "img": "placeholder"
+    },
+    {
+      "name": "Greenies",
+      "img": "placeholder"
+    },
+    {
+      "name": "Freshpet",
+      "img": "placeholder"
+    },
+    {
+      "name": "Open Farm",
+      "img": "placeholder"
+    }
+  ]
+}
