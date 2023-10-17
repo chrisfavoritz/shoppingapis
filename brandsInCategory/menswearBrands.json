@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "name": "Ralph Lauren",
+      "img": "placeholder"
+    },
+    {
+      "name": "Calvin Klein",
+      "img": "placeholder"
+    },
+    {
+      "name": "Tommy Hilfiger",
+      "img": "placeholder"
+    },
+    {
+      "name": "Levi's",
+      "img": "placeholder"
+    },
+    {
+      "name": "Nike",
+      "img": "placeholder"
+    },
+    {
+      "name": "Brooks Brothers",
+      "img": "placeholder"
+    },
+    {
+      "name": "J.Crew",
+      "img": "placeholder"
+    },
+    {
+      "name": "Tom Ford",
+      "img": "placeholder"
+    },
+    {
+      "name": "HUGO BOSS",
+      "img": "placeholder"
+    },
+    {
+      "name": "Lululemon",
+      "img": "placeholder"
+    },
+    {
+      "name": "Under Armour",
+      "img": "placeholder"
+    },
+    {
+      "name": "The North Face",
+      "img": "placeholder"
+    },
+    {
+      "name": "Patagonia",
+      "img": "placeholder"
+    },
+    {
+      "name": "Banana Republic",
+      "img": "placeholder"
+    },
+    {
+      "name": "Gap",
+      "img": "placeholder"
+    }
+  ]
+}
