@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "name": "Dodge Grand Caravan",
+      "img": "placeholder"
+    },
+    {
+      "name": "Honda Odyssey",
+      "img": "placeholder"
+    },
+    {
+      "name": "Toyota Sienna",
+      "img": "placeholder"
+    },
+    {
+      "name": "Chrysler Pacifica",
+      "img": "placeholder"
+    },
+    {
+      "name": "Kia Sedona",
+      "img": "placeholder"
+    }
+  ]
+}
