@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "name": "Hershey's",
+      "img": "placeholder"
+    },
+    {
+      "name": "Snickers",
+      "img": "placeholder"
+    },
+    {
+      "name": "KitKat",
+      "img": "placeholder"
+    },
+    {
+      "name": "Reese's Peanut Butter Cups",
+      "img": "placeholder"
+    },
+    {
+      "name": "Twix",
+      "img": "placeholder"
+    },
+    {
+      "name": "Cadbury",
+      "img": "placeholder"
+    },
+    {
+      "name": "Milky Way",
+      "img": "placeholder"
+    },
+    {
+      "name": "Butterfinger",
+      "img": "placeholder"
+    },
+    {
+      "name": "3 Musketeers",
+      "img": "placeholder"
+    },
+    {
+      "name": "Almond Joy",
+      "img": "placeholder"
+    },
+    {
+      "name": "M&M's",
+      "img": "placeholder"
+    },
+    {
+      "name": "Lindt",
+      "img": "placeholder"
+    },
+    {
+      "name": "Toblerone",
+      "img": "placeholder"
+    },
+    {
+      "name": "Ghirardelli",
+      "img": "placeholder"
+    },
+    {
+      "name": "Ferrero Rocher",
+      "img": "placeholder"
+    },
+    {
+      "name": "Nestlé Crunch",
+      "img": "placeholder"
+    },
+    {
+      "name": "Dove",
+      "img": "placeholder"
+    },
+    {
+      "name": "Baby Ruth",
+      "img": "placeholder"
+    },
+    {
+      "name": "Aero",
+      "img": "placeholder"
+    },
+    {
+      "name": "Oh Henry!",
+      "img": "placeholder"
+    }
+  ]
+}
