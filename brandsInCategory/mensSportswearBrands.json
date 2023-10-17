@@ -1,0 +1,56 @@
+{
+  "items": [
+    {
+      "name": "Nike",
+      "img": "placeholder"
+    },
+    {
+      "name": "Adidas",
+      "img": "placeholder"
+    },
+    {
+      "name": "Under Armour",
+      "img": "placeholder"
+    },
+    {
+      "name": "Puma",
+      "img": "placeholder"
+    },
+    {
+      "name": "Reebok",
+      "img": "placeholder"
+    },
+    {
+      "name": "New Balance",
+      "img": "placeholder"
+    },
+    {
+      "name": "Lululemon",
+      "img": "placeholder"
+    },
+    {
+      "name": "The North Face",
+      "img": "placeholder"
+    },
+    {
+      "name": "Columbia Sportswear",
+      "img": "placeholder"
+    },
+    {
+      "name": "ASICS",
+      "img": "placeholder"
+    },
+    {
+      "name": "Gymshark",
+      "img": "placeholder"
+    },
+    {
+      "name": "Target",
+      "img": "placeholder"
+    },
+    {
+      "name": "Walmart",
+      "img": "placeholder"
+    }
+  ]
+}
