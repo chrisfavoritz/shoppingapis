@@ -2,83 +2,83 @@
   "items": [
     {
       "name": "Cheerios",
-      "img": "placeholder"
+      "img": "https://www.cheerios.ca/wp-content/uploads/2018/07/cheerios-EN-460x460-1.png"
     },
     {
       "name": "Frosted Flakes",
-      "img": "placeholder"
+      "img": "https://images.kglobalservices.com/www.frostedflakes.com/en_us/product/product_3451904/prod_img-3451906_frostedflakes_us.png"
     },
     {
       "name": "Honey Nut Cheerios",
-      "img": "placeholder"
+      "img": "https://www.cheerios.ca/wp-content/uploads/2018/03/honey-nut-cheerios-EN-460x460-1.png"
     },
     {
       "name": "Cinnamon Toast Crunch",
-      "img": "placeholder"
+      "img": "https://www.cinnamontoastcrunch.com/_next/image?url=https%3A%2F%2Fctccmsprod.wpengine.com%2Fwp-content%2Fuploads%2F2022%2F02%2FCTC-Original-New-Packaging-460x460-1.png&w=750&q=75"
     },
     {
       "name": "Special K",
-      "img": "placeholder"
+      "img": "https://images.kglobalservices.com/www.specialk.com/en_us/product/product_3451919/prod_img-3451922_specialk_us.png"
     },
     {
       "name": "Froot Loops",
-      "img": "placeholder"
+      "img": "https://images.kglobalservices.com/www.wkkellogg.ca_en/en_ca/product/product_3451893/prod_img-3451895_frootloops_ca_en.png"
     },
     {
       "name": "Raisin Bran",
-      "img": "placeholder"
+      "img": "https://images.kglobalservices.com/www.raisinbran.com/en_us/product/product_4508651/kicproductimage-127056_kicproductimage-127056.png"
     },
     {
       "name": "Lucky Charms",
-      "img": "placeholder"
+      "img": "https://www.luckycharms.com/_next/image?url=https%3A%2F%2Fluckycmsprod.wpengine.com%2Fwp-content%2Fuploads%2F2020%2F02%2Foriginal-460x460-1.png&w=640&q=75"
     },
     {
       "name": "Cap'n Crunch",
-      "img": "placeholder"
+      "img": "https://www.capncrunch.com/sites/capncrunch.com/files/2021-03/original-crunch.png"
     },
     {
       "name": "Apple Jacks",
-      "img": "placeholder"
+      "img": "https://www.applejacks.com/content/dam/NorthAmerica/apple-jacks/images/home/apple-jacks-box.png"
     },
     {
       "name": "Rice Krispies",
-      "img": "placeholder"
+      "img": "https://images.kglobalservices.com/www.ricekrispies.ca_en/en_ca/product/product_3451909/prod_img-3451913_rk-original.png"
     },
     {
       "name": "Corn Flakes",
-      "img": "placeholder"
+      "img": "https://images.kglobalservices.com/www.wkkellogg.ca_en/en_ca/product/product_3451960/prod_img-3451964_cornflakes_ca_en.png"
     },
     {
       "name": "Fruity Pebbles",
-      "img": "placeholder"
+      "img": "https://www.postpebblescereal.com/wp-content/uploads/2018/05/Fruity-PEBBLES-Spoke-Site-2.png"
     },
     {
       "name": "Cocoa Puffs",
-      "img": "placeholder"
+      "img": "https://cereals.generalmills.com/wp-content/uploads/2019/04/cocoa-puffs.png"
     },
     {
       "name": "Mini-Wheats",
-      "img": "placeholder"
+      "img": "https://images.kglobalservices.com/www.wkkellogg.ca_en/en_ca/product/product_4508599/kicproductimage-124062_mw_orig_510g_en.jpeg"
     },
     {
       "name": "Golden Grahams",
-      "img": "placeholder"
+      "img": "https://cereals.generalmills.com/wp-content/uploads/2019/04/golden-grahams.png"
     },
     {
       "name": "Life",
-      "img": "placeholder"
+      "img": "https://www.quakeroats.com/images/default-source/products/quaker_lifecereal_original_320x400"
     },
     {
       "name": "Honey Bunches of Oats",
-      "img": "placeholder"
+      "img": "https://www.honeybunchesofoats.com/wp-content/uploads/2019/09/HBO_Box_1_HR.png"
     },
     {
       "name": "Reese's Puffs",
-      "img": "placeholder"
+      "img": "https://cereals.generalmills.com/wp-content/uploads/2019/04/reeses-puffs.png"
     },
     {
       "name": "Chex",
-      "img": "placeholder"
+      "img": "https://s3.amazonaws.com/jo.www.bucket/chex.com/derivatives/image/cb81395d82d932db3062fe945f54863f/img-480-480-0-false-default-fff"
     }
   ]
 }
