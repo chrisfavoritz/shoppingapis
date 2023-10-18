@@ -2,83 +2,75 @@
   "items": [
     {
       "name": "Hershey's Milk Chocolate Bar",
-      "img": "placeholder"
+      "img": "https://s7d2.scene7.com/is/image/hersheysassets/0_34000_00240_5_701_24000_097_Item_Front?fmt=webp-alpha&hei=938&qlt=75"
     },
     {
       "name": "Snickers Bar",
-      "img": "placeholder"
+      "img": "https://www.snickers.com/sites/g/files/fnmzdf616/files/migrate-product-files/dryeqrv2efldaaoyceat.png"
     },
     {
       "name": "Reese's Peanut Butter Cups",
-      "img": "placeholder"
+      "img": "https://s7d2.scene7.com/is/image/hersheysassets/0_34000_00440_9_701_44000_136_Item_Front?fmt=png-alpha&hei=938"
     },
     {
       "name": "M&M's Milk Chocolate Candies",
-      "img": "placeholder"
+      "img": "https://cdn.media.amplience.net/i/marsmmsprod/ct2140_img_01_1000842913_4010241060_4010241061?%24i%24=&w=1984"
     },
     {
       "name": "Kit Kat Wafer Bar",
-      "img": "placeholder"
+      "img": "https://www.kitkat.co.uk/sites/default/files/styles/crop_dsu_c_gallery_image_medium/public/2023-03/KK%204F%20Milk_4.png?itok=8Mar3kkY"
     },
     {
       "name": "Twix Cookie Bars",
-      "img": "placeholder"
+      "img": "https://www.twix.com/cdn-cgi/image/width=472,height=472,f=auto,quality=90/sites/g/files/fnmzdf236/files/migrate-product-files/pm57alsea7mspqhhgfuf.png"
     },
     {
       "name": "Milky Way Chocolate Bar",
-      "img": "placeholder"
+      "img": "https://www.milkywaybar.com/cdn-cgi/image/width=472,height=472,f=auto,quality=90/sites/g/files/fnmzdf631/files/migrate-product-files/navjcnc7rdmfi5v4b6qf.png"
     },
     {
       "name": "Cadbury Dairy Milk",
-      "img": "placeholder"
+      "img": "https://s7d1.scene7.com/is/image/hersheyprodcloud/0_34000_04025_4_701_04023_015_Item_Front?fmt=webp-alpha&hei=790&qlt=75"
     },
     {
       "name": "Lindt Lindor Milk Chocolate Truffles",
-      "img": "placeholder"
+      "img": "https://www.lindt.ca/media/catalog/product/d/4/d444e76315b5efb7eb30596eb2b8149de015b26fd86da0952feceb3c192fbf6c.jpeg?quality=80&fit=bounds&height=700&width=700&canvas=700:700"
     },
     {
       "name": "Ferrero Rocher",
-      "img": "placeholder"
+      "img": "https://www.ferrerorocher.com/ca/sites/ferrerorocher20_ca/files/2022-12/rocher_t3x12x8_angle_teaser.png?t=1696498647"
     },
     {
       "name": "Ghirardelli Milk Chocolate Squares",
-      "img": "placeholder"
+      "img": "https://www.ghirardelli.com/media/catalog/product/7/0/70858-milk-chocolate-square.jpg?quality=80&fit=bounds&height=500&width=500&canvas=500:500"
     },
     {
       "name": "Nestlé Crunch Bar",
-      "img": "placeholder"
+      "img": "https://www.madewithnestle.ca/sites/default/files/nestle_product_complimentary-01-crunch.png"
     },
     {
       "name": "Toblerone Milk Chocolate Bar",
-      "img": "placeholder"
+      "img": "https://images.ctfassets.net/zo243s55pyir/2fY4QoQAcZpXyrKVYvSzZ4/4038668ac02e0a41fc7e413c3d1ff442/2008_Toblerone_Pack_100Years.jpg?fm=webp&q=80"
     },
     {
-      "name": "Dove Silky Smooth Milk Chocolate Bar",
-      "img": "placeholder"
+      "name": "Kinder Bueno",
+      "img": "https://www.kinder.com/ca/sites/kinder_ca/files/2021-07/snack-chocolate-bar-kinder-bueno-pack.png?t=1684343504"
     },
     {
       "name": "Mars Chocolate Bar",
-      "img": "placeholder"
+      "img": "https://www.marsbar.ca/cdn-cgi/image/width=472,height=472,f=auto,quality=90/sites/g/files/fnmzdf1101/files/migrate-product-files/wjhmty2ckahwjgz859ne.png"
     },
     {
-      "name": "Godiva Milk Chocolate Bar",
-      "img": "placeholder"
+      "name": "Nestlé Coffee Crisp Original Chocolate Wafer Bar",
+      "img": "https://assets.shop.loblaws.ca/products/20019964/b2/en/front/20019964_front_a06_@2.png"
     },
     {
       "name": "Nestlé Butterfinger Bar",
-      "img": "placeholder"
+      "img": "https://ferrero-lampd9-prod-static.s3.eu-west-1.amazonaws.com/butterfinger-com/s3fs-public/styles/product_teaser/public/image/2019-10/99900100873_0.png?itok=0ENepLIR"
     },
     {
-      "name": "Ritter Sport Milk Chocolate with Whole Hazelnuts",
-      "img": "placeholder"
-    },
-    {
-      "name": "Russell Stover Milk Chocolate Assortment",
-      "img": "placeholder"
-    },
-    {
-      "name": "Tootsie Roll",
-      "img": "placeholder"
+      "name": "Cadbury Dairy Milk Caramel Chocolate Bar",
+      "img": "https://images-tastehub.mdlzapps.cloud/images/99715085-62d2-43be-8f1f-a594169bd7ef.png?fm=webp&q=80"
     }
   ]
 }
