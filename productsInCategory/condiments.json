@@ -2,83 +2,87 @@
   "items": [
     {
       "name": "Heinz Ketchup",
-      "img": "placeholder"
+      "img": "https://res.cloudinary.com/kraft-heinz-whats-cooking-ca//f_auto,c_limit,w_1200,q_auto/f_auto/q_auto/r_8/dxp-images/heinz/products/tomato-ketchup-00013000006408-en-US.png"
     },
     {
-      "name": "Hellmann's/Best Foods Mayonnaise",
-      "img": "placeholder"
+      "name": "Hellmann's Mayonnaise",
+      "img": "https://asset-americas.unileversolutions.com/content/dam/unilever/hellmann_s_world/saint_pierre_and_miquelon/pack_shot/hellmann_s_real_cage_free_recycled_family-100634104-png.png.ulenscale.460x460.png"
     },
     {
       "name": "French's Classic Yellow Mustard",
-      "img": "placeholder"
+      "img": "https://www.mccormick.com/-/media/project/oneweb/mccormick-us/frenchs/products/00041500000251_a1c1_master.png?rev=9435c3cef1e047fc95a866041365f722&vd=20220421T205701Z&hash=731B4BC0C06519DDEE3FD30810F935F5"
     },
     {
       "name": "Sriracha Hot Chili Sauce (Huy Fong Foods)",
-      "img": "placeholder"
+      "img": "https://www.huyfong.com/wp-content/uploads/2015/05/sriracha-family.png"
     },
     {
       "name": "Hidden Valley Ranch Dressing",
-      "img": "placeholder"
+      "img": "https://hiddenvalleyranch.ca/assets/Uploads/a19151bcf0/hidden-valley-ranch-fat-free-473-ml.webp"
     },
     {
       "name": "Pace Picante Sauce/Salsa",
-      "img": "placeholder"
+      "img": "https://www.campbellsoup.ca/wp-content/uploads/2012/07/pace-mild-picante-salsa-648.png"
     },
     {
       "name": "Frank's RedHot Original Cayenne Pepper Sauce",
-      "img": "placeholder"
+      "img": "https://embed.widencdn.net/img/mccormick/s5tmn1volq/400x600px/franks_redhot_original_canada.png?crop=true&u=qtpeo3"
     },
     {
       "name": "Grey Poupon Dijon Mustard",
-      "img": "placeholder"
+      "img": "https://greypouponmustard.com/cdn/shop/files/Grey-Poupon-Dijon.jpg?v=1692711697&width=550"
     },
     {
       "name": "Jif Peanut Butter",
-      "img": "placeholder"
+      "img": "https://images.smuckers.ca/images/newsite/products/47/product_183.png"
     },
     {
       "name": "Nutella Hazelnut Spread",
-      "img": "placeholder"
+      "img": "https://www.nutella.com/ca/sites/nutella20_ca/files/styles/scale_width_1040/public/2020-06/nutella-jar-glass-new-label.png"
     },
     {
       "name": "A.1. Steak Sauce",
-      "img": "placeholder"
+      "img": "https://res.cloudinary.com/kraft-heinz-whats-cooking-ca//f_auto,c_limit,w_1920,q_auto/f_auto/q_auto/r_8/dxp-images/afh/products/a1-original-steak-sauce-10-oz-bottles-pack-of-12-10054400000020-en-US.png"
     },
     {
       "name": "Kraft Miracle Whip",
-      "img": "placeholder"
+      "img": "https://images.salsify.com/image/upload/s--KrrHSpYW--/h_400,w_400,q_80/dvhsm8nyewyrfg4kixnp.jpg"
     },
     {
       "name": "Tabasco Pepper Sauce",
-      "img": "placeholder"
+      "img": "https://www.tabasco.com/wp-content/uploads/2023/06/OriginalRed_Hot-Sauces-Page-Bottles_330x860.png"
     },
     {
       "name": "Heinz Yellow Mustard",
-      "img": "placeholder"
+      "img": "https://res.cloudinary.com/kraft-heinz-whats-cooking-ca//f_auto,c_limit,w_640,q_auto/f_auto/q_auto/dxp-images/heinz/products/100-natural-yellow-mustard-00013000002189-en-US.png"
     },
     {
-      "name": "Kraft Salad Dressings",
-      "img": "placeholder"
+      "name": "Kraft Peanut Butter",
+      "img": "https://images.salsify.com/image/upload/s--wB3FEjYD--/h_400,w_400,q_80/kayjp2lobhb789tidpjz.jpg"
     },
     {
-      "name": "Prego Pasta Sauces",
-      "img": "placeholder"
+      "name": "Tostitos Chunky Salsa",
+      "img": "https://www.tostitos.com/sites/tostitos2021.com/files/2021-11/J16906_516374_FL_Tostitos_Dips_ChunkySalsaMedium_3D.png"
     },
     {
       "name": "Sweet Baby Ray's BBQ Sauce",
-      "img": "placeholder"
+      "img": "https://www.sweetbabyrays.com/getattachment/39c42267-201f-4dc6-9772-89ce3943c5b7/Original-Barbecue"
     },
     {
       "name": "Heinz BBQ Sauce",
-      "img": "placeholder"
+      "img": "https://res.cloudinary.com/kraft-heinz-whats-cooking-ca//f_auto,c_limit,w_828,q_auto/f_auto/q_auto/r_8/dxp-images/heinz/products/original-sweet--thick-bbq-sauce-00013000007122-en-US.png"
     },
     {
-      "name": "Bertolli Olive Oil",
-      "img": "placeholder"
+      "name": "Culinary Treasures Jalapeno Lime Aioli",
+      "img": "https://m.media-amazon.com/images/I/81HhtIYv+FL._AC_SL1500_.jpg"
+    },
+    {
+      "name": "Culinary Treasures Jalapeno Chipotle Aioli",
+      "img": "https://m.media-amazon.com/images/I/61nrV1NmEBS._AC_SL1500_.jpg"
     },
     {
       "name": "Soy Vay Veri Veri Teriyaki Sauce",
-      "img": "placeholder"
+      "img": "https://www.soyvay.com/wp-content/uploads/2015/04/sv-us-veri-veri-teriyai-21oz-front-hero-ecom-088177227673_517408.001.png?width=350"
     }
   ]
 }
