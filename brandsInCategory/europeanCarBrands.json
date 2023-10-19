@@ -1,0 +1,80 @@
+{
+  "items": [
+  {
+    "name": "Volkswagen",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Volkswagen_logo_2019.svg/150px-Volkswagen_logo_2019.svg.png"
+  },
+  {
+    "name": "Audi",
+    "img": "https://www.audi-mediacenter.com/system/production/media/1282/images/bde751ee18fe149036c6b47d7595f6784f8901f8/AL090142_web_2880.jpg?1581961854"
+  },
+  {
+    "name": "BMW",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/f/f4/20210211152513%21BMW_logo_%28gray%29.svg/120px-BMW_logo_%28gray%29.svg.png"
+  },
+  {
+    "name": "Mercedes-Benz",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Mercedes-Logo.svg/2048px-Mercedes-Logo.svg.png"
+  },
+  {
+    "name": "Porsche",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Porsche_logo.svg/640px-Porsche_logo.svg.png"
+  },
+  {
+    "name": "Jaguar",
+    "img": "https://www.tarandchipottawa.com/wp-content/uploads/2018/05/Jaguar-logo-2012-1920x1080.png"
+  },
+  {
+    "name": "Land Rover",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Land_Rover_logo_black.svg/2560px-Land_Rover_logo_black.svg.png"
+  },
+  {
+    "name": "Volvo",
+    "img": "https://www.media.volvocars.com/image/low/286708/1_1/5"
+  },
+  {
+    "name": "MINI",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/MINI_logo.svg/2560px-MINI_logo.svg.png"
+  },
+  {
+    "name": "Alfa Romeo",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Alfa_Romeo_logo.png/190px-Alfa_Romeo_logo.png"
+  },
+  {
+    "name": "Fiat",
+    "img": "https://listcarbrands.com/wp-content/uploads/2016/02/Fiat-Logo.png"
+  },
+  {
+    "name": "Maserati",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Maserati_logo_2.svg/1200px-Maserati_logo_2.svg.png"
+  },
+  {
+    "name": "Bentley",
+    "img": "https://www.audi-mediacenter.com/system/production/media/28400/images/8e25f6bd8579b61c1051a52650813ebf676313dc/A160053_web_2880.jpg?1582245503"
+  },
+  {
+    "name": "Rolls-Royce",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rolls-Royce_Motor_Cars_logo.svg/1638px-Rolls-Royce_Motor_Cars_logo.svg.png"
+  },
+  {
+    "name": "Aston Martin",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Aston_Martin_Lagonda_brand_logo.png/220px-Aston_Martin_Lagonda_brand_logo.png"
+  },
+  {
+    "name": "Lamborghini",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Lamborghini_Logo.svg/640px-Lamborghini_Logo.svg.png"
+  },
+  {
+    "name": "Ferrari",
+    "img": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c0/Scuderia_Ferrari_Logo.svg/800px-Scuderia_Ferrari_Logo.svg.png"
+  },
+  {
+    "name": "McLaren",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/McLaren-Group-Logo.svg/2560px-McLaren-Group-Logo.svg.png"
+  },
+  {
+    "name": "Bugatti",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bugatti_logo.svg/800px-Bugatti_logo.svg.png"
+  }
+]
+}
