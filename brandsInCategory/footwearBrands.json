@@ -2,43 +2,43 @@
   "items": [
     {
       "name": "Nike",
-      "img": "placeholder"
+      "img": "https://static.nike.com/a/images/f_jpg,q_auto:eco/61b4738b-e1e1-4786-8f6c-26aa0008e80b/swoosh-logo-black.png"
     },
     {
       "name": "Adidas",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Original_Adidas_logo.svg/779px-Original_Adidas_logo.svg.png"
     },
     {
       "name": "Under Armour",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/06/Under-Armour-logo-500x293.jpg"
     },
     {
       "name": "Reebok",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/05/Reebok-logo-500x281.jpg"
     },
     {
       "name": "Puma",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/05/PUMA-logo-500x281.jpg"
     },
     {
       "name": "New Balance",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2018/05/New-Balance-logo-700x343.jpg"
     },
     {
       "name": "Skechers",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/02/Skechers-logo-500x207.jpg"
     },
     {
       "name": "Vans",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/06/Vans-logo-500x281.jpg"
     },
     {
       "name": "Converse",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/04/Converse-logo-500x281.jpg"
     },
     {
       "name": "ASICS",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/03/Asics-logo-500x224.jpg"
     }
   ]
 }
