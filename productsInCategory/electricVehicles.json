@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "name": "Tesla Model 3",
+      "img": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Mega-Menu-Vehicles-Model-3.png"
+    },
+    {
+      "name": "Tesla Model Y",
+      "img": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Mega-Menu-Vehicles-Model-Y.png"
+    },
+    {
+      "name": "Chevrolet Bolt EV",
+      "img": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2023/1FB48/1FB48__1LT/G7X_EN0_EJK_MMF_RGA_QBM_G7X_AR7_HVX_IOSgmds10.jpg&v=deg01&std=true&country=US&background=FFFFFF"
+    },
+    {
+      "name": "Nissan Leaf",
+      "img": "https://www.nissan.ca/content/dam/Nissan/Canada/Vehicles/leaf/2024/gallery/360/kad/08.png.ximg.c1h.360.png"
+    },
+    {
+      "name": "Tesla Model X",
+      "img": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Mega-Menu-Vehicles-Model-X.png"
+    },
+    {
+      "name": "BMW i7 xDrive60",
+      "img": "https://cache.bmwusa.com/cosy.arox?pov=walkaround&brand=WBBM&vehicle=247R&client=byoc&paint=P0300&fabric=FVCSW&sa=S01F2,S0302,S0319,S0416,S043D,S0465,S046A,S04A2,S04FL,S04FM,S04NR,S04V1,S05AS,S05DM,S06AC,S06AK,S06C4,S06NX,S06U3,S06U7,S0775,S07M7&angle=30"
+    },
+    {
+      "name": "BMW iX xDrive40",
+      "img": "https://media-server3.modenamotorsgmbh.com/42859-large_default/bmw-ix-xdrive40-sportpaket.jpg"
+    },
+    {
+      "name": "BMW i4 eDrive35",
+      "img": "https://www.bmwusa.com/content/dam/bmwusa/common/vehicles/2023/my24/all-electric/i4/gran-coupe/electric/mobile/BMW-MY24-i4-eDrive40-DP-MakeItYours-Mobile.jpg"
+    },
+    {
+      "name": "BMW i5 M60 xDRIVE",
+      "img": "https://cache.bmwusa.com/cosy.arox?pov=walkaround&brand=WBBM&vehicle=245U&client=byo&paint=P0300&fabric=FVCJL&sa=S02VV,S0302,S0316,S0319,S0322,S03GD,S0403,S043L,S0456,S0494,S04FL,S04UR,S05AS,S05DM,S06AC,S06AK,S06C4,S06F4,S06NX,S0710,S0760,S0775,S09T1,S09T2&quality=70&bkgnd=transparent&resp=png&width=600&angle=320"
+    },
+    {
+      "name": "Rivian R1T",
+      "img": "https://images.rivian.com/2md5qhoeajym/4sr7z8ebIqI5jSAEZO3SrB/1dcf98537e9b0ee8c58ef29a54977ed4/R1T-1.png?w=768&fm=webp"
+    },
+    {
+      "name": "Volkswagen ID.4",
+      "img": "https://inventory-assets.motocommerce.ca/build_and_price/volkswagen/825830923/vw23_e813sn_zx_q3q3_ext_015_xxx_xxx_xxx.png"
+    },
+    {
+      "name": "Kia EV9",
+      "img": "https://www.kia.com/us/content/dam/kia/us/en/vehicles/ev9/2024/trims/lite/mep-lite-trims-carousel/EV9-Land-AWD-Ivory-Silver-Matte-36.png"
+    },
+    {
+      "name": "Kia EV6",
+      "img": "https://img.sm360.ca/ir/w600h340c/images/newcar/ca/2023/kia/ev6/awd-long-range-gt-line-1/suv/exteriorColors/2023_kia_ev6_gt-line-i_032_swp.png"
+    },
+    {
+      "name": "Rivian R1S",
+      "img": "https://images.rivian.com/2md5qhoeajym/XPJeNBKMAwe4exmrcxNIL/cbb995b016053f897a666098459d4a7f/R1S-6_mpb0pk-d.png?w=768&fm=webp"
+    },
+    {
+      "name": "Hyundai Ioniq 5",
+      "img": "https://www.hyundaicanada.com/-/media/hyundai/showroom/2023/ioniq-5/trims/preferred/360/b1afb2/IMG_001.png"
+    },
+    {
+      "name": "Ford Mustang Mach-E",
+      "img": "https://build.ford.com/dig/Ford/Mache/2023/HD-TILE%5BEXTBCK1%5D/Image%5B%7CFord%7CMache%7C2023%7C1%7C1.%7C100A...PM7...89J.649.RWD.994.%5D/EXT/4/vehicle.png"
+    },
+    {
+      "name": "Tesla Model S",
+      "img": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Mega-Menu-Vehicles-Model-S.png"
+    },
+    {
+      "name": "Chevrolet Bolt EUV",
+      "img": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2023/1FF48/1FF48__2LT/GSJ_EN0_EKT_MMF_RSB_GSJ_AR7_H1N_IOSgmds10.jpg&v=deg01&std=true&country=US&background=FFFFFF"
+    }
+  ]
+}
