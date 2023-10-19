@@ -2,91 +2,99 @@
   "items": [
     {
       "name": "Nike",
-      "img": "placeholder"
-    },
-    {
-      "name": "Adidas",
-      "img": "placeholder"
-    },
-    {
-      "name": "Under Armour",
-      "img": "placeholder"
-    },
-    {
-      "name": "Puma",
-      "img": "placeholder"
-    },
-    {
-      "name": "Reebok",
-      "img": "placeholder"
-    },
-    {
-      "name": "New Balance",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/11/Nike-Logo-500x281.png"
     },
     {
       "name": "Lululemon",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/08/Lululemon-Logo-500x414.png"
     },
     {
-      "name": "Set Active",
-      "img": "placeholder"
-    },
-    {
-      "name": "Aerie",
-      "img": "placeholder"
-    },
-    {
-      "name": "Alo Yoga",
-      "img": "placeholder"
-    },
-    {
-      "name": "Athleta",
-      "img": "placeholder"
-    },
-    {
-      "name": "Gymshark",
-      "img": "placeholder"
-    },
-    {
-      "name": "Halara",
-      "img": "placeholder"
-    },
-    {
-      "name": "Amazon",
-      "img": "placeholder"
-    },
-    {
-      "name": "Girlfriend Collective",
-      "img": "placeholder"
-    },
-    {
-      "name": "Vitality",
-      "img": "placeholder"
-    },
-    {
-      "name": "Target",
-      "img": "placeholder"
-    },
-    {
-      "name": "Walmart",
-      "img": "placeholder"
-    },
-    {
-      "name": "Outdoor Voices",
-      "img": "placeholder"
-    },
-    {
-      "name": "Free People",
-      "img": "placeholder"
-    },
-    {
-      "name": "Fabletics",
-      "img": "placeholder"
+      "name": "Under Armour",
+      "img": "https://1000logos.net/wp-content/uploads/2017/06/Under-Armour-Logo-500x295.png"
     },
     {
       "name": "Old Navy",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/02/Old-Navy-logo-500x281.png"
+    },
+    {
+      "name": "Adidas",
+      "img": "https://1000logos.net/wp-content/uploads/2016/10/Adidas-logo-500x332.png"
+    },
+    {
+      "name": "Champion",
+      "img": "https://1000logos.net/wp-content/uploads/2021/05/Champion-logo-500x281.png"
+    },
+    {
+      "name": "Reebok",
+      "img": "https://1000logos.net/wp-content/uploads/2017/05/Reebok-logo-500x281.png"
+    },
+    {
+      "name": "Puma",
+      "img": "https://1000logos.net/wp-content/uploads/2021/04/Puma-logo-500x249.png"
+    },
+    {
+      "name": "New Balance",
+      "img": "https://1000logos.net/wp-content/uploads/2018/04/New-Balance-Logo-500x281.png"
+    },
+    {
+      "name": "The North Face",
+      "img": "https://1000logos.net/wp-content/uploads/2017/05/North-Face-Logo-500x266.png"
+    },
+    {
+      "name": "Columbia Sportswear",
+      "img": "https://1000logos.net/wp-content/uploads/2020/03/Columbia-logo-500x300.png"
+    },
+    {
+      "name": "ASICS",
+      "img": "https://1000logos.net/wp-content/uploads/2020/03/Asics-logo-500x166.png"
+    },
+    {
+      "name": "Gymshark",
+      "img": "https://1000logos.net/wp-content/uploads/2023/05/Gymshark-Logo-500x281.png"
+    },
+    {
+      "name": "Set Active",
+      "img": "https://setactive.co/cdn/shop/files/SET_LOGO_NAV_600x.png?v=1680899433"
+    },
+    {
+      "name": "Aerie",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aerie_logo.svg/1200px-Aerie_logo.svg.png"
+    },
+    {
+      "name": "Alo Yoga",
+      "img": "https://www.aloyoga.com/cdn/shop/t/3605/assets/ms-icon-144x144.png?v=107647176128285507921697086884"
+    },
+    {
+      "name": "Athleta",
+      "img": "https://1000logos.net/wp-content/uploads/2021/02/Athleta-logo-500x345.png"
+    },
+    {
+      "name": "Halara",
+      "img": "https://mpi.halarastatic.com/upload/online/16/14/07/12/22/_9323433142.png"
+    },
+    {
+      "name": "Amazon Essentials",
+      "img": "https://1000logos.net/wp-content/uploads/2016/10/Amazon-Logo-500x313.png"
+    },
+    {
+      "name": "Girlfriend Collective",
+      "img": "https://d3k81ch9hvuctc.cloudfront.net/company/NnCGsR/images/e11a0a87-1e99-4f57-96bc-7b9f2ab487c9.png"
+    },
+    {
+      "name": "Vitality",
+      "img": "https://cdn.shopify.com/s/files/1/0005/7750/3289/files/Vitality_Logo-02.png?v=1650389244"
+    },
+    {
+      "name": "Outdoor Voices",
+      "img": "https://www.gq.com/coupons/static/shop/39646/logo/Outdoor_Voices_Logo__1_.png"
+    },
+    {
+      "name": "Free People",
+      "img": "https://logovectorseek.com/wp-content/uploads/2021/11/fp-movement-logo-vector-xs.png"
+    },
+    {
+      "name": "Fabletics",
+      "img": "https://static.wikia.nocookie.net/logopedia/images/4/49/Fabletics.svg/revision/latest/scale-to-width-down/1200?cb=20230305203940"
     }
   ]
 }
