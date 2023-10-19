@@ -2,63 +2,91 @@
   "items": [
     {
       "name": "Ralph Lauren",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/06/Ralph-lauren-Logo-500x313.png"
     },
     {
       "name": "Calvin Klein",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/11/Calvin-Klein-logo-500x281.png"
     },
     {
       "name": "Tommy Hilfiger",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2022/08/Tommy-Hilfiger-logo-500x281.png"
     },
     {
       "name": "Levi's",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/03/Levis-Logo-500x250.png"
     },
     {
       "name": "Nike",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/11/Nike-Logo-500x281.png"
     },
     {
       "name": "Brooks Brothers",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/12/Brooks-Brothers-Logo-500x281.png"
     },
     {
       "name": "J.Crew",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2023/10/J.Crew-Logo-500x282.png"
     },
     {
       "name": "Tom Ford",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/06/Tom-Ford-logo-500x281.png"
     },
     {
       "name": "HUGO BOSS",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/11/Hugo-Boss-Logo-500x281.png"
     },
     {
       "name": "Lululemon",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/08/Lululemon-Logo-500x414.png"
     },
     {
       "name": "Under Armour",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/06/Under-Armour-Logo-500x295.png"
     },
     {
       "name": "The North Face",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/05/North-Face-Logo-500x266.png"
+    },
+    {
+      "name": "Old Navy",
+      "img": "https://1000logos.net/wp-content/uploads/2020/02/Old-Navy-logo-500x281.png"
     },
     {
       "name": "Patagonia",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2022/08/Patagonia-Logo-500x281.png"
+    },
+    {
+      "name": "Adidas",
+      "img": "https://1000logos.net/wp-content/uploads/2016/10/Adidas-logo-500x332.png"
+    },
+    {
+      "name": "Champion",
+      "img": "https://1000logos.net/wp-content/uploads/2021/05/Champion-logo-500x281.png"
+    },
+    {
+      "name": "Alex Mill",
+      "img": "https://1000logos.net/wp-content/uploads/2023/10/Alex-Mill-Logo-500x282.png"
+    },
+    {
+      "name": "Dickies",
+      "img": "https://1000logos.net/wp-content/uploads/2020/07/Dickies-Logo-500x281.png"
+    },
+    {
+      "name": "L.L. Bean",
+      "img": "https://1000logos.net/wp-content/uploads/2023/10/L.L.Bean-Logo-500x281.png"
+    },
+    {
+      "name": "Uniqlo",
+      "img": "https://1000logos.net/wp-content/uploads/2020/05/Uniqlo-Logo-500x281.png"
     },
     {
       "name": "Banana Republic",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/05/Banana-Republic-logo-500x281.png"
     },
     {
       "name": "Gap",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/12/Gap-Logo-500x333.png"
     }
   ]
 }
