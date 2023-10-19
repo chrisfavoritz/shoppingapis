@@ -2,83 +2,83 @@
   "items": [
     {
       "name": "Oreo",
-      "img": "placeholder"
+      "img": "https://www.oreo.com/media/catalog/product/cache/b0ed7a8f732322b979671de8f002f8c0/o/r/oreo_cookies.png"
     },
     {
       "name": "Chips Ahoy!",
-      "img": "placeholder"
+      "img": "https://www.kroger.com/product/images/large/front/0004400003219"
     },
     {
       "name": "Pepperidge Farm Milano",
-      "img": "placeholder"
+      "img": "https://images.salsify.com/image/upload/s--CXbNrsjC--/e_trim/h_528,w_610,c_pad,fl_keep_iptc.clip,g_center/f9jvcnnfdtybjbzxnpra.png"
     },
     {
       "name": "Keebler Fudge Stripes",
-      "img": "placeholder"
+      "img": "https://ferrero-lampd9-prod-static.s3.eu-west-1.amazonaws.com/keebler-com/s3fs-public/2023-05/00027800065701-fudge-stripes-11.5.png"
     },
     {
       "name": "Famous Amos",
-      "img": "placeholder"
+      "img": "https://ferrero-lampd9-prod-static.s3.eu-west-1.amazonaws.com/famousamos-com/s3fs-public/2022-05/famous-amos-belgian-chocolate-7oz.png"
     },
     {
       "name": "Mrs. Fields",
-      "img": "placeholder"
+      "img": "https://mrsfields.ca/wp-content/uploads/2018/08/MF_Small_Tin_2023.jpeg"
     },
     {
       "name": "Tate's Bake Shop",
-      "img": "placeholder"
+      "img": "https://www.tatesbakeshop.com/media/catalog/product/cache/8d30f08408f599dd80f2b3f49ea6aa04/c/h/chocolate-chip_proof-06_900x900.jpg"
     },
     {
       "name": "Keebler E.L. Fudge",
-      "img": "placeholder"
+      "img": "https://ferrero-lampd9-prod-static.s3.eu-west-1.amazonaws.com/keebler-com/s3fs-public/2022-08/E.L.%20Fudge%C2%AE%20Original%20Cookies%2012%20oz.png"
     },
     {
       "name": "Pepperidge Farm Chessmen",
-      "img": "placeholder"
+      "img": "https://images.salsify.com/image/upload/s--9KRThOub--/e_trim/c_pad,cs_srgb,h_528,w_600/jyuz6qsputzy0na9nuzx.jpg"
     },
     {
       "name": "Nutter Butter",
-      "img": "placeholder"
-    },
-    {
-      "name": "Girl Scout Cookies (various flavors)",
-      "img": "placeholder"
+      "img": "https://images.salsify.com/image/upload/s--HNGKnbQl--/nvodte9x3hdevwmydalx.jpg?fm=webp&q=80"
     },
     {
       "name": "Keebler Sandies",
-      "img": "placeholder"
+      "img": "https://ferrero-lampd9-prod-static.s3.eu-west-1.amazonaws.com/keebler-com/s3fs-public/2022-08/Sandies%C2%AE%20Classic%20Shortbread%2011.2%20oz.png"
     },
     {
-      "name": "Lorna Doone",
-      "img": "placeholder"
+      "name": "Pillsbury Chocolate Chip Cookie",
+      "img": "https://res.cloudinary.com/general-mills/image/upload/q_auto,w_690/products/00018000817788_C1C1_s260_9a52fe44-04b1-4c69-b8d2-d98379e023d0.jpg"
     },
     {
       "name": "Pepperidge Farm Farmhouse",
-      "img": "placeholder"
+      "img": "https://images.salsify.com/image/upload/s--Yv61xexc--/e_trim/h_528,w_610,c_pad,fl_keep_iptc.clip,g_center/ftnkoxyl1e4vhhthrjuk.png"
     },
     {
       "name": "Little Debbie Oatmeal Creme Pies",
-      "img": "placeholder"
+      "img": "https://littledebbie.com/images/snackproducts/products/0c4da16727e6fa41b5457af95c2d9bab.png"
     },
     {
       "name": "Entenmann's",
-      "img": "placeholder"
+      "img": "https://www.entenmanns.com/sites/default/files/styles/large/public/00072030001807_CL__JPEG_3.jpg?itok=lpMQPWvs"
     },
     {
-      "name": "Grandma's",
-      "img": "placeholder"
+      "name": "Grandma's Chocolate Brownie Cookies",
+      "img": "https://www.fritolay.com/sites/fritolay.com/files/2019-08/grandmas-homestyle-chocolate-brownie.png"
     },
     {
-      "name": "Voortman",
-      "img": "placeholder"
+      "name": "Fudgee-O",
+      "img": "https://images.salsify.com/image/upload/s--7e0hP5Lg--/duh3mrqdve95iwnmevy5.jpg?fm=webp&q=80"
     },
     {
-      "name": "Archway",
-      "img": "placeholder"
+      "name": "Pillsbury Holiday Sugar Cookie",
+      "img": "https://res.cloudinary.com/general-mills/image/upload/q_auto,w_690/products/00018000119271_C1C1_s110_cd12f3a5-9400-42a6-a161-ab836e6fb27f.jpg"
     },
     {
-      "name": "Keebler Chips Deluxe",
-      "img": "placeholder"
+      "name": "Dad's Oatmeal Cookie",
+      "img": "https://images.salsify.com/image/upload/s--ghIlH125--/zmucjdoz7h3k1gpgn7rc.jpg?fm=webp&q=80"
+    },
+    {
+      "name": "Chips Ahoy! Rainbow",
+      "img": "http://images.salsify.com/image/upload/s--5asVtzLY--/px3y2wti1xwb74azzlmg.jpg"
     }
   ]
 }
