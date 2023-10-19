@@ -2,83 +2,83 @@
   "items": [
     {
       "name": "Coca-Cola",
-      "img": "placeholder"
+      "img": "https://us.coca-cola.com/content/dam/nagbrands/us/coke/en/home/coca-cola-original-20oz.png"
     },
     {
       "name": "Pepsi",
-      "img": "placeholder"
+      "img": "https://www.pepsi.ca/sites/pepsi.ca/files/Pepsi%20Eminence%20591mL%20Dry%20Straight%20Bilingual_1.png"
     },
     {
       "name": "Dr Pepper",
-      "img": "placeholder"
+      "img": "https://i5.walmartimages.com/asr/c1c35cc1-c8bd-493e-890b-eea173b0b033.a6dc57256b6c1729f4df14b191110b8f.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
     },
     {
       "name": "Sprite",
-      "img": "placeholder"
+      "img": "https://www.coca-cola.ca/content/dam/journey/ca/en/private/brand-detail/sprite/feature-image/Sprite500mL.png"
     },
     {
-      "name": "Mountain Dew",
-      "img": "placeholder"
+      "name": "Mtn Dew Original",
+      "img": "https://www.mountaindew.com/wp-content/uploads/2022/11/Products-MtnDewOriginalHero.png"
     },
     {
       "name": "Fanta",
-      "img": "placeholder"
+      "img": "https://www.fanta.com/content/dam/nagbrands/us/fanta/en/products/Fanta_Orange_20oz@1x.png"
     },
     {
       "name": "7UP",
-      "img": "placeholder"
+      "img": "https://i5.walmartimages.com/asr/c41090c5-21d9-4a89-be7e-4fdf96e23c17.b44743124c7ad06b9d726b81de4194d7.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
     },
     {
       "name": "A&W Root Beer",
-      "img": "placeholder"
+      "img": "https://www.londondrugs.com/on/demandware.static/-/Sites-londondrugs-master/default/dwaa203c57/products/L8677353/large/L8677353.JPG"
     },
     {
       "name": "Canada Dry Ginger Ale",
-      "img": "placeholder"
+      "img": "https://assets.shop.loblaws.ca/products/20828514/b2/en/front/20828514_front_a06_@2.png"
     },
     {
       "name": "Diet Coke",
-      "img": "placeholder"
+      "img": "https://www.coca-cola.ca/content/dam/journey/ca/en/private/brand-detail/diet-coke/large-diet-coke.png"
     },
     {
       "name": "Diet Pepsi",
-      "img": "placeholder"
+      "img": "https://www.pepsi.ca/sites/pepsi.ca/files/Diet%20Pepsi%20591%20mL%20Eminence%20Dry%203D%20Bilingual_1.png"
     },
     {
       "name": "Sunkist",
-      "img": "placeholder"
+      "img": "https://s7d1.scene7.com/is/image/kdrp/SK_Orange_20oz_Legacy_Wet?$Dynamic-PublicURL-PNG?wid=250&hei=500"
     },
     {
       "name": "Barq's Root Beer",
-      "img": "placeholder"
+      "img": "https://www.cokesolutions.com/content/cokesolutions/site/us/en/products/brands/barq-s/barq-s-root-beer.main-image.400-575.png"
     },
     {
       "name": "Sierra Mist",
-      "img": "placeholder"
+      "img": "https://pepsicopartners.com/medias/300Wx300H-1-15HWUZ-1.jpeg?context=bWFzdGVyfHJvb3R8MjEzNDF8aW1hZ2UvanBlZ3xoNGQvaDg5LzEwMDU4ODUyMTA2MjcwLzMwMFd4MzAwSF8xLTE1SFdVWi0xLmpwZWd8Zjk4NTBlMTEzNThiYmI4NzAzYWI2ZTA2NDIzMDU4M2Y1ZmExYjgxYjQ1MDgwYzgwN2Y3OThkNmM4YTU4NTJkMA"
     },
     {
       "name": "Fresca",
-      "img": "placeholder"
+      "img": "https://www.fresca.com/content/dam/nagbrands/us/fresca/en/products/heros/grapefruit-hero-20oz.png"
     },
     {
-      "name": "RC Cola",
-      "img": "placeholder"
+      "name": "Mug Root Beer",
+      "img": "https://www.pepsicopartners.com/medias/300Wx300H-1-HYK-8450.jpg?context=bWFzdGVyfHJvb3R8MjMxMTR8aW1hZ2UvanBlZ3xoN2EvaGU1LzEwMDU5MDc3MzUzNTAyLzMwMFd4MzAwSF8xLUhZSy04NDUwLmpwZ3xkMTg4ZWQzZGRmNjExOTg4MGIwNjYyMTA3ZjllN2QwZDkyYzBjYzkyNGI0YzQ3OWZkMTk3NjlhZWM4ZDQ4MmQ4"
     },
     {
-      "name": "Coca-Cola Zero Sugar",
-      "img": "placeholder"
+      "name": "Crush Orange Flavored Soda",
+      "img": "https://www.crushsoda.com/images/products/CRUSH_ORANGE_20.png"
     },
     {
-      "name": "Pepsi Zero Sugar",
-      "img": "placeholder"
+      "name": "Crush Cream Soda",
+      "img": "https://i5.walmartimages.com/asr/2c64ab97-ead6-4249-bb07-44472b927263.6faf7252999f897215775776af2b95d3.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
     },
     {
       "name": "Mello Yello",
-      "img": "placeholder"
+      "img": "https://www.melloyello.com/content/dam/nagbrands/us/melloyello/en/products/image-updates-10-10-20/pdp/mello-yello-20oz.png"
     },
     {
-      "name": "Sprite Zero Sugar",
-      "img": "placeholder"
+      "name": "Mtn Dew Baja Blast",
+      "img": "https://www.mountaindew.com/wp-content/uploads/2023/06/REG-960x2804.png"
     }
   ]
 }
