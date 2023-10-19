@@ -1,0 +1,40 @@
+{
+  "items": [
+  {
+    "name": "Toyota",
+    "img": "https://global.toyota/pages/global_toyota/mobility/toyota-brand/emblem_001.jpg"
+  },
+  {
+    "name": "Honda",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Honda.svg/800px-Honda.svg.png"
+  },
+  {
+    "name": "Nissan",
+    "img": "/thumb/2/23/Nissan_2020_logo.svg/2447px-Nissan_2020_logo.svg.png"
+  },
+  {
+    "name": "Subaru",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Subaru_%282019%29.svg/220px-Subaru_%282019%29.svg.png"
+  },
+  {
+    "name": "Mazda",
+    "img": "https://www.mazda.ca/static/tempImgs/mazda_logo.png"
+  },
+  {
+    "name": "Mitsubishi",
+    "img": "5a/Mitsubishi_logo.svg/558px-Mitsubishi_logo.svg.png"
+  },
+  {
+    "name": "Acura",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Acura_logo.svg/220px-Acura_logo.svg.png"
+  },
+  {
+    "name": "Lexus",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Lexus_division_emblem.svg/1200px-Lexus_division_emblem.svg.png"
+  },
+  {
+    "name": "Infiniti",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/INFINITI_Logo_Primary_Black.png"
+  }
+]
+}
