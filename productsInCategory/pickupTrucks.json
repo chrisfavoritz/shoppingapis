@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "name": "Ford F-150",
+      "img": "https://buildfoc.ford.com/dig/Ford/F-150%20F-150/2023/HD-TILE-ACC%5BEXTBCK%5D/Image%5B%7CFord%7CF-150%20F-150%7C2023%7C1%7C1.%7C101A..122.PM7..88C.89S.66D.SS6.16G.55D.MFP.RCAB.64C.RWD.99B.50S.76R.774.X19.%5D/EXT/1/vehicle.png"
+    },
+    {
+      "name": "Chevrolet Silverado",
+      "img": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2024/CK10543/CK10543__3LZ/GXDgmds1.jpg&v=deg04&std=true&country=US&removeCat=&background=ffffff"
+    },
+    {
+      "name": "Ram Pickup",
+      "img": "https://medias.fcacanada.ca/jellies/renditions/2024/400x255/CC24_DT6S98_2TY_PAU_APD_QXJ_XXX_XXX.0472f922c14dcd598b9551c33a5d783e.png"
+    },
+    {
+      "name": "GMC Sierra",
+      "img": "https://www.gmc.com/content/dam/gmc/na/us/english/index/shared-assets/jellybeans/2024/sierra-1500/trim-size/updated/2024-sierra-1500-elevation-compare-trims-779x394.png?imwidth=600"
+    },
+    {
+      "name": "Toyota Tacoma",
+      "img": "https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/build/cp4/col/big/b23_dz5bnt_fl1_0040_a.png?ck=10192023011418"
+    },
+    {
+      "name": "Chevrolet Colorado",
+      "img": "https://cgi.chevrolet.com/mmgprod-us/dynres/prove/image.gen?i=2023/14H43/14H43__4ZR/GAZ_L3B_MFC_GU6_R1U_GAZ_A50_HV3_URL_R9Mgmds11.jpg&v=deg01&std=true&country=US&removeCat=&background=FFFFFF"
+    },
+    {
+      "name": "Ford Ranger",
+      "img": "https://buildfoc.ford.com/dig/Ford/Ranger/2024/HD-TILE/Image%5B%7CFord%7CRanger%7C2024%7C1%7C1.%7C100A...PYZ..88B.89H.76F.CAB.64E.AWD.99H.XL.%5D/EXT/1/vehicle.png"
+    },
+    {
+      "name": "Toyota Tundra",
+      "img": "https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/build/tp2/col/big/b24_la5aa_fl1_01j9_a.png?ck=10192023011418"
+    },
+    {
+      "name": "Nissan Titan",
+      "img": "https://ms-prd-nna.use.mediaserver.heliosnissan.net/iris/iris?resp=png&bkgnd=transparent&pov=E01&w=8667&h=8667&x=797&y=222&height=326&width=578&vehicle=8_A61&paint=KAD&fabric=G&brand=nisnna&sa=1_C,2_PK,4_7,5_L,6_C,7_2,11_D,12_U,13_5,14_D,16_F,SHADOW_ON,PI_ON,PE_ON,2024"
+    },
+    {
+      "name": "Jeep Gladiator",
+      "img": "https://medias.fcacanada.ca/jellies/renditions/2023/800x510/CC23_JTJS98_2TR_PDN_APA_XXX_XXX_XXX.94e0996071acd147084bc1a2ddee6b16.png"
+    }
+  ]
+}
