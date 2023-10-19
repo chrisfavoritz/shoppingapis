@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "name": "Toyota RAV4",
+      "img": "https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/build/rav/col/small/s24_b1rfv_fl1_0040_a.png?ck=10192023011418"
+    },
+    {
+      "name": "Honda CR-V",
+      "img": "https://www.honda.ca/-/media/Brands/Honda/Models/CR-V/2023/Trims/_LX-2WD/Trim-BAP/LSM/CRV23_LX_2WD_LSM_1_718x402_desktop.png?rev=37314df236754a4a8ea511a7e1edc3cc"
+    },
+    {
+      "name": "Chevrolet Equinox",
+      "img": "https://www.chevrolet.ca/content/dam/chevrolet/na/canada/english/index/crossovers-suvs/2024-equinox/2024-equinox-1xp26-1ls-gaz-trimselector.jpg?imwidth=419"
+    },
+    {
+      "name": "Ford Escape",
+      "img": "https://buildfoc.ford.com/dig/Ford/Escape/2024/HD-TILE/Image%5B%7CFord%7CEscape%7C2024%7C1%7C1.%7C601A.U9J..PJS..88E.89H.18C.66B.16H.61V.54J.91B.90M.91C.64E.TFF.68C.63B.AWD.99A.GAS.52E.52T.524.65K.HKCBA.60E.60S.18B.IBBAB.ICEFS.IDBAD.IEVAQ.85B.67H.448.PLATIN.ACT.%5D/EXT/1/vehicle.png"
+    },
+    {
+      "name": "Nissan Rogue",
+      "img": "https://www.nissan.ca/content/dam/Nissan/Canada/Vehicles/rogue/2023/vap/vehicle-profile/2023-nissan-Rogue-SV_Moonroof-QAB.png.ximg.l_4_h.smart.png"
+    },
+    {
+      "name": "Jeep Grand Cherokee",
+      "img": "https://medias.fcacanada.ca/jellies/renditions/2024/400x255/CC24_WLJH74_2TA_PAS_APA_XXX_XXX_XXX.dd9c32ac11b05b1993798e717271cd9d.png"
+    },
+    {
+      "name": "Subaru Outback",
+      "img": "https://s7d1.scene7.com/is/image/scom/RDB_default_frontwheelturned_left?$1100wa$"
+    },
+    {
+      "name": "Toyota Highlander",
+      "img": "https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/build/ghh/col/small/s24_gghac_fl1_01j9_a.png?ck=10192023011418"
+    },
+    {
+      "name": "Ford Explorer",
+      "img": "https://buildfoc.ford.com/dig/Ford/Explorer/2023/HD-TILE/Image%5B%7CFord%7CExplorer%7C2023%7C1%7C1.%7C301A.K8F..PJS..88C.89N.~4HC00_VS-CN.86E.SUV.SRB.145.87P.649.TFV.65S.18R.AWD.X3B.99H.66S.GAS.61H.51A.61N.60B.58W.53L.DEC.LFL.44T.LTD.LEA.%5D/EXT/1/vehicle.png"
+    },
+    {
+      "name": "Chevrolet Traverse",
+      "img": "https://www.chevrolet.ca/content/dam/chevrolet/na/canada/english/index/crossovers-suvs/2023-traverse/01-images/trims/2023-traverse-1nv56-1ls-gaz-trimselector.jpg?imwidth=419"
+    }
+  ]
+}
