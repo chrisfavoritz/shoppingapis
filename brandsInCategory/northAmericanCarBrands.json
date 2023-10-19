@@ -1,0 +1,52 @@
+{
+  "items": [
+  {
+    "name": "Chevrolet",
+    "img": "https://media.chevrolet.com/content/media.suffiximg.w_550.maxw_550.maxh_367.jpg/content/dam/Media/images/US/Logos/chevrolet/chevrolet_logo_16x9.jpg/1571234895546.jpg"
+  },
+  {
+    "name": "Ford",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Ford_logo.svg/2560px-Ford_logo.svg.png"
+  },
+  {
+    "name": "GMC",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/GMC-Logo.svg/1200px-GMC-Logo.svg.png"
+  },
+  {
+    "name": "Dodge",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Dodge_logo_2010.png"
+  },
+  {
+    "name": "Ram",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/e8/Ramchryslerlogo.png"
+  },
+  {
+    "name": "Jeep",
+    "img": "https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/global/header/logo-jeep.png"
+  },
+  {
+    "name": "Chrysler",
+    "img": "https://pbs.twimg.com/profile_images/951540064349077504/J4mo65dY_400x400.jpg"
+  },
+  {
+    "name": "Buick",
+    "img": "https://www.buick.ca/content/dam/buick/na/ca/en/portable-nav/buick-logo-images/Buick-logo-012523-01_V3.png"
+  },
+  {
+    "name": "Cadillac",
+    "img": "https://cadillacsociety.com/wp-content/uploads/2021/09/Cadillac-2d-logo-black-and-white-black-on-white-background-with-lettering-September-2021-760x500.jpg"
+  },
+  {
+    "name": "Lincoln",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_Lincoln.png"
+  },
+  {
+    "name": "Tesla",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/372px-Tesla_Motors.svg.png"
+  },
+  {
+    "name": "Rivian",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Rivian_Logo_Black.png"
+  }
+]
+}
