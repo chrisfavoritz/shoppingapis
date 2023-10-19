@@ -2,55 +2,55 @@
   "items": [
     {
       "name": "Nike",
-      "img": "placeholder"
-    },
-    {
-      "name": "Adidas",
-      "img": "placeholder"
-    },
-    {
-      "name": "Under Armour",
-      "img": "placeholder"
-    },
-    {
-      "name": "Puma",
-      "img": "placeholder"
-    },
-    {
-      "name": "Reebok",
-      "img": "placeholder"
-    },
-    {
-      "name": "New Balance",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/11/Nike-Logo-500x281.png"
     },
     {
       "name": "Lululemon",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/08/Lululemon-Logo-500x414.png"
+    },
+    {
+      "name": "Under Armour",
+      "img": "https://1000logos.net/wp-content/uploads/2017/06/Under-Armour-Logo-500x295.png"
+    },
+    {
+      "name": "Old Navy",
+      "img": "https://1000logos.net/wp-content/uploads/2020/02/Old-Navy-logo-500x281.png"
+    },
+    {
+      "name": "Adidas",
+      "img": "https://1000logos.net/wp-content/uploads/2016/10/Adidas-logo-500x332.png"
+    },
+    {
+      "name": "Champion",
+      "img": "https://1000logos.net/wp-content/uploads/2021/05/Champion-logo-500x281.png"
+    },
+    {
+      "name": "Reebok",
+      "img": "https://1000logos.net/wp-content/uploads/2017/05/Reebok-logo-500x281.png"
+    },
+    {
+      "name": "Puma",
+      "img": "https://1000logos.net/wp-content/uploads/2021/04/Puma-logo-500x249.png"
+    },
+    {
+      "name": "New Balance",
+      "img": "https://1000logos.net/wp-content/uploads/2018/04/New-Balance-Logo-500x281.png"
     },
     {
       "name": "The North Face",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/05/North-Face-Logo-500x266.png"
     },
     {
       "name": "Columbia Sportswear",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/03/Columbia-logo-500x300.png"
     },
     {
       "name": "ASICS",
-      "img": "placeholder"
-    },
+      "img": "https://1000logos.net/wp-content/uploads/2020/03/Asics-logo-500x166.png"
+    }
     {
       "name": "Gymshark",
-      "img": "placeholder"
-    },
-    {
-      "name": "Target",
-      "img": "placeholder"
-    },
-    {
-      "name": "Walmart",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2023/05/Gymshark-Logo-500x281.png"
     }
   ]
 }
