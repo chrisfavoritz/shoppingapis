@@ -2,43 +2,43 @@
   "items": [
     {
       "name": "PlayStation 5",
-      "img": "placeholder"
+      "img": "https://gmedia.playstation.com/is/image/SIEPDC/playstation-5-with-dualsense-front-product-shot-01-ps5-en-30jul20?$1200px--t$"
     },
     {
-      "name": "Xbox Series X|S",
-      "img": "placeholder"
+      "name": "Xbox Series X",
+      "img": "https://assets.xboxservices.com/assets/4e/72/4e7224cf-1368-489e-984e-3415a8dd13ce.png?n=Console-Hub_Content-Placement-0_SeriesX_740x555.png"
+    },
+    {
+      "name": "Xbox Series S",
+      "img": "https://assets.xboxservices.com/assets/eb/9d/eb9dcd04-c013-4770-a45c-d88b42b66419.png?n=0294958693_BuyBox02_829x799.png"
     },
     {
       "name": "Nintendo Switch",
-      "img": "placeholder"
+      "img": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_1.0/c_scale,w_500/ncom/en_US/products/hardware/nintendo-switch-oled-model-white-set/115461-switch-oled-white-console-dock-joy-con-grip-1200x675"
     },
     {
       "name": "PlayStation 4",
-      "img": "placeholder"
-    },
-    {
-      "name": "Xbox One",
-      "img": "placeholder"
+      "img": "https://gmedia.playstation.com/is/image/SIEPDC/ps4-slim-image-block-01-en-24jul20?$1200px--t$"
     },
     {
       "name": "Oculus Quest 2",
-      "img": "placeholder"
+      "img": "https://scontent.fyaw1-1.fna.fbcdn.net/v/t39.8562-6/345672355_598158892292688_4505810592596149386_n.png?stp=dst-webp&_nc_cat=110&ccb=1-7&_nc_sid=430b19&_nc_ohc=i_7uoUDmZOAAX_fQ4ZR&_nc_ht=scontent.fyaw1-1.fna&oh=00_AfC_SqUxeoD4U3iNzKfUpJvCiPdiQsMGaJK0v877h8hIMw&oe=6536EEF1"
+    },
+    {
+      "name": "Oculus Quest 3",
+      "img": "https://scontent.fyaw1-1.fna.fbcdn.net/v/t39.8562-6/373019270_314153224435121_5347656658366895106_n.png?stp=dst-webp&_nc_cat=106&ccb=1-7&_nc_sid=430b19&_nc_ohc=sRpPvACastIAX_Ilv5w&_nc_ht=scontent.fyaw1-1.fna&oh=00_AfAADtDzR_4Ikii6KLmyDXgToAifQWJdFXckocDhSS5hQA&oe=653665F4"
     },
     {
       "name": "Valve Index",
-      "img": "placeholder"
+      "img": "https://cdn.akamai.steamstatic.com/steam/apps/1059530/ss_c63555869a58a5105c8996d8480af5d345ce39cd.600x338.jpg?t=1645043152"
     },
     {
-      "name": "HTC Vive",
-      "img": "placeholder"
+      "name": "HTC Vive XR Elite",
+      "img": "https://www.vive.com/media/filer_public/vive/product-listing/hero-vive-xr-elite-full-kit-687.png"
     },
     {
-      "name": "PlayStation VR",
-      "img": "placeholder"
-    },
-    {
-      "name": "Oculus Rift S",
-      "img": "placeholder"
+      "name": "PlayStation VR2",
+      "img": "https://gmedia.playstation.com/is/image/SIEPDC/section3b-headset?fmt=png-alpha&scl=1"
     }
   ]
 }
