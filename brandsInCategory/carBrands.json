@@ -2,183 +2,183 @@
   "items": [
   {
     "name": "Chevrolet",
-    "img": "placeholder"
+    "img": "https://media.chevrolet.com/content/media.suffiximg.w_550.maxw_550.maxh_367.jpg/content/dam/Media/images/US/Logos/chevrolet/chevrolet_logo_16x9.jpg/1571234895546.jpg"
   },
   {
     "name": "Ford",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Ford_logo.svg/2560px-Ford_logo.svg.png"
   },
   {
     "name": "GMC",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/GMC-Logo.svg/1200px-GMC-Logo.svg.png"
   },
   {
     "name": "Dodge",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Dodge_logo_2010.png"
   },
   {
     "name": "Ram",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/e8/Ramchryslerlogo.png"
   },
   {
     "name": "Jeep",
-    "img": "placeholder"
+    "img": "https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/global/header/logo-jeep.png"
   },
   {
     "name": "Chrysler",
-    "img": "placeholder"
+    "img": "https://pbs.twimg.com/profile_images/951540064349077504/J4mo65dY_400x400.jpg"
   },
   {
     "name": "Buick",
-    "img": "placeholder"
+    "img": "https://www.buick.ca/content/dam/buick/na/ca/en/portable-nav/buick-logo-images/Buick-logo-012523-01_V3.png"
   },
   {
     "name": "Cadillac",
-    "img": "placeholder"
+    "img": "https://cadillacsociety.com/wp-content/uploads/2021/09/Cadillac-2d-logo-black-and-white-black-on-white-background-with-lettering-September-2021-760x500.jpg"
   },
   {
     "name": "Lincoln",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Logo_Lincoln.png"
   },
   {
     "name": "Tesla",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/372px-Tesla_Motors.svg.png"
   },
   {
     "name": "Rivian",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Rivian_Logo_Black.png"
   },
   {
     "name": "Toyota",
-    "img": "placeholder"
+    "img": "https://global.toyota/pages/global_toyota/mobility/toyota-brand/emblem_001.jpg"
   },
   {
     "name": "Honda",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Honda.svg/800px-Honda.svg.png"
   },
   {
     "name": "Nissan",
-    "img": "placeholder"
+    "img": "/thumb/2/23/Nissan_2020_logo.svg/2447px-Nissan_2020_logo.svg.png"
   },
   {
     "name": "Subaru",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Subaru_%282019%29.svg/220px-Subaru_%282019%29.svg.png"
   },
   {
     "name": "Mazda",
-    "img": "placeholder"
+    "img": "https://www.mazda.ca/static/tempImgs/mazda_logo.png"
   },
   {
     "name": "Mitsubishi",
-    "img": "placeholder"
+    "img": "5a/Mitsubishi_logo.svg/558px-Mitsubishi_logo.svg.png"
   },
   {
     "name": "Acura",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Acura_logo.svg/220px-Acura_logo.svg.png"
   },
   {
     "name": "Lexus",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Lexus_division_emblem.svg/1200px-Lexus_division_emblem.svg.png"
   },
   {
     "name": "Infiniti",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/INFINITI_Logo_Primary_Black.png"
   },
   {
     "name": "Hyundai",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hyundai_Motor_Company_logo.svg/2560px-Hyundai_Motor_Company_logo.svg.png"
   },
   {
     "name": "Kia",
-    "img": "placeholder"
+    "img": "data:image/png;base64,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"
   },
   {
     "name": "Genesis",
-    "img": "placeholder"
+    "img": "https://preview.thenewsmarket.com/Previews/GNUS/StillAssets/960x540/470091_v5.jpg"
   },
   {
     "name": "Volkswagen",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Volkswagen_logo_2019.svg/150px-Volkswagen_logo_2019.svg.png"
   },
   {
     "name": "Audi",
-    "img": "placeholder"
+    "img": "https://www.audi-mediacenter.com/system/production/media/1282/images/bde751ee18fe149036c6b47d7595f6784f8901f8/AL090142_web_2880.jpg?1581961854"
   },
   {
     "name": "BMW",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/f/f4/20210211152513%21BMW_logo_%28gray%29.svg/120px-BMW_logo_%28gray%29.svg.png"
   },
   {
     "name": "Mercedes-Benz",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Mercedes-Logo.svg/2048px-Mercedes-Logo.svg.png"
   },
   {
     "name": "Porsche",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Porsche_logo.svg/640px-Porsche_logo.svg.png"
   },
   {
     "name": "Jaguar",
-    "img": "placeholder"
+    "img": "https://www.tarandchipottawa.com/wp-content/uploads/2018/05/Jaguar-logo-2012-1920x1080.png"
   },
   {
     "name": "Land Rover",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Land_Rover_logo_black.svg/2560px-Land_Rover_logo_black.svg.png"
   },
   {
     "name": "Volvo",
-    "img": "placeholder"
+    "img": "https://www.media.volvocars.com/image/low/286708/1_1/5"
   },
   {
     "name": "MINI",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/MINI_logo.svg/2560px-MINI_logo.svg.png"
   },
   {
     "name": "Alfa Romeo",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Alfa_Romeo_logo.png/190px-Alfa_Romeo_logo.png"
   },
   {
     "name": "Fiat",
-    "img": "placeholder"
+    "img": "https://listcarbrands.com/wp-content/uploads/2016/02/Fiat-Logo.png"
   },
   {
     "name": "Maserati",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Maserati_logo_2.svg/1200px-Maserati_logo_2.svg.png"
   },
   {
     "name": "Bentley",
-    "img": "placeholder"
+    "img": "https://www.audi-mediacenter.com/system/production/media/28400/images/8e25f6bd8579b61c1051a52650813ebf676313dc/A160053_web_2880.jpg?1582245503"
   },
   {
     "name": "Rolls-Royce",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Rolls-Royce_Motor_Cars_logo.svg/1638px-Rolls-Royce_Motor_Cars_logo.svg.png"
   },
   {
     "name": "Aston Martin",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Aston_Martin_Lagonda_brand_logo.png/220px-Aston_Martin_Lagonda_brand_logo.png"
   },
   {
     "name": "Lamborghini",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Lamborghini_Logo.svg/640px-Lamborghini_Logo.svg.png"
   },
   {
     "name": "Ferrari",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c0/Scuderia_Ferrari_Logo.svg/800px-Scuderia_Ferrari_Logo.svg.png"
   },
   {
     "name": "McLaren",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/McLaren-Group-Logo.svg/2560px-McLaren-Group-Logo.svg.png"
   },
   {
     "name": "Bugatti",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Bugatti_logo.svg/800px-Bugatti_logo.svg.png"
   },
   {
     "name": "Lucid Motors",
-    "img": "placeholder"
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ5uoiKpAdNaHjuNgtEPskEt-Hwd1zvFcCR2T1VlCyaKEUOtObZXsfBbDT0VVQsnTs5g&usqp=CAU"
   },
   {
     "name": "NIO",
-    "img": "placeholder"
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/NIO_logo.svg/2560px-NIO_logo.svg.png"
   }
 ]
 }
