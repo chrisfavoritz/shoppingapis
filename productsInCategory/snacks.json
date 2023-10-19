@@ -2,83 +2,83 @@
   "items": [
     {
       "name": "Lay's Classic Potato Chips",
-      "img": "placeholder"
+      "img": "https://images.heb.com/is/image/HEBGrocery/001865742-1?jpegSize=150&hei=1400&fit=constrain&qlt=75"
     },
     {
       "name": "Doritos Nacho Cheese Flavored Tortilla Chips",
-      "img": "placeholder"
+      "img": "https://www.doritos.com/sites/doritos.com/files/2018-08/new-nacho-cheese.png"
     },
     {
       "name": "Cheetos Crunchy Cheese Flavored Snacks",
-      "img": "placeholder"
+      "img": "https://www.cheetos.com/sites/cheetos.com/files/2019-03/Cheetos%20Crunchy_v2_0.png"
     },
     {
       "name": "Ritz Crackers",
-      "img": "placeholder"
+      "img": "http://images.salsify.com/image/upload/s--RZyuJvy1--/q3s5kayyfxhwx2aassp1.jpg"
     },
     {
       "name": "Pringles Original Potato Crisps",
-      "img": "placeholder"
+      "img": "https://images.kglobalservices.com/www.pringles.com_ca_en/en_ca/product/product_1896199/prod_img-1380142_orig.png"
     },
     {
       "name": "Oreo Cookies",
-      "img": "placeholder"
+      "img": "https://www.oreo.com/media/catalog/product/cache/b0ed7a8f732322b979671de8f002f8c0/o/r/oreo_cookies.png"
     },
     {
-      "name": "Tostitos Scoops! Tortilla Chips",
-      "img": "placeholder"
+      "name": "Tostitos Tortilla Chips",
+      "img": "https://www.tostitos.com/sites/tostitos2021.com/files/2023-10/00028400517966_C1C1.ok%20%281%29.png"
     },
     {
       "name": "Goldfish Cheddar Crackers",
-      "img": "placeholder"
+      "img": "https://www.campbellsoup.ca/wp-content/uploads/2012/07/GF_Cheddar_EN.png"
     },
     {
-      "name": "Snyder's of Hanover Pretzels",
-      "img": "placeholder"
+      "name": "Rold Gold Pretzels",
+      "img": "https://roldgold.com/sites/roldgold.com/files/2022-12/RG_Tiny-Twists-Original_FOP.png"
     },
     {
       "name": "Chex Mix Traditional Snack Mix",
-      "img": "placeholder"
+      "img": "https://www.chexmix.com/wp-content/uploads/2023/07/chex-mix-trad-460x460-1.png"
     },
     {
       "name": "Pop-Tarts Toaster Pastries",
-      "img": "placeholder"
+      "img": "https://images.kglobalservices.com/www.poptarts.com/en_us/product/product_4508807/prod_img-8315079_strawberry.png"
     },
     {
       "name": "Nature Valley Oats 'n Honey Crunchy Granola Bars",
-      "img": "placeholder"
+      "img": "https://www.naturevalley.ca/wp-content/uploads/2019/05/NatureValley-Crunchy-GranolaBar-Oats-N-Honey-EN-460x460-1.png"
     },
     {
       "name": "Fritos Corn Chips",
-      "img": "placeholder"
+      "img": "https://www.fritolay.com/sites/fritolay.com/files/fritos-original.png"
     },
     {
       "name": "Cheez-It Baked Snack Crackers",
-      "img": "placeholder"
+      "img": "https://images.kglobalservices.com/www.cheezit.com/en_us/product/product_4821790/prod_img-8235260_optimized_orig_00024100705665_c1l1.png"
     },
     {
-      "name": "Planters Salted Peanuts",
-      "img": "placeholder"
+      "name": "Welch's Fruit Snacks",
+      "img": "https://welchsfruitsnacks.com/wp-content/uploads/2018/08/B10818_10ct-WELCHS-FS-MixedFruit_Render.png"
     },
     {
       "name": "Rice Krispies Treats",
-      "img": "placeholder"
+      "img": "https://images.kglobalservices.com/www.ricekrispiestreats.com/en_us/product/product_4509601/kicproductimage-126878_original.png"
     },
     {
       "name": "Wheat Thins Original Crackers",
-      "img": "placeholder"
+      "img": "http://images.salsify.com/image/upload/s--mmsBob1W--/asb7eg787vxcig5up9xi.jpg"
     },
     {
       "name": "SkinnyPop Popcorn",
-      "img": "placeholder"
+      "img": "https://www.skinnypop.com/wp-content/uploads/2015/01/original-300x4002.jpg"
     },
     {
       "name": "KIND Bars",
-      "img": "placeholder"
+      "img": "https://www.kindsnacks.com/dw/image/v2/BCLS_PRD/on/demandware.static/-/Sites-kind-snacks-master/default/dw70ece28d/images/17751-box-kind-nut-bars-dark-chocolate-nuts-sea-salt.png?sw=375"
     },
     {
-      "name": "Blue Diamond Almonds",
-      "img": "placeholder"
+      "name": "Humpty Dumpty Party Mix",
+      "img": "https://www.olddutchfoods.ca/thumbnails/userfiles/files/3D_NWD_HD_Party_Mix_Original%285805%29_265x395cc.png"
     }
   ]
 }
