@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "name": "Toyota Camry",
+      "img": "https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/build/cam/col/small/s24_g11ak_fl1_01j9_a.png?ck=10192023011418"
+    },
+    {
+      "name": "Honda Accord",
+      "img": "https://www.honda.ca/-/media/Brands/Honda/Models/ACCORD/2023/Overview/05_Colours/Front/colour-picker-front__0000_2023_Accord_SportHybrid_UGP_1.png?h=520&iar=0&w=1248&rev=9e4508e1c94446a49f7e025ed6c5da61&hash=32D7877046236EEE0A46C67DAF865F63"
+    },
+    {
+      "name": "Honda Civic",
+      "img": "https://www.honda.ca/-/media/Brands/Honda/Models/CIVIC-SEDAN/2023/Overview/05_Colours/Front/colour-picker-front_2022_MY23_Civic_BAP_LX_LSM_01.png?h=520&iar=0&w=1248&rev=edf07a9ba7164354bdd54a743461ea3d&hash=06CB5CA6532ABDD95A39273BE44D4E7C"
+    },
+    {
+      "name": "Toyota Corolla",
+      "img": "https://s3.amazonaws.com/toyota.site.toyota-v5/tci-prod/toyota/media/build/cor/col/small/s24_bprbe_fl1_01f7_a.png?ck=10192023011418"
+    },
+    {
+      "name": "Nissan Altima",
+      "img": "https://www.nissan.ca/content/dam/Nissan/Canada/Vehicles/altima/2023/vap/vehicle_profile/2023-nissan-Altima-SR-Premium-KCH.png.ximg.l_3_m.smart.png"
+    },
+    {
+      "name": "Hyundai Elantra",
+      "img": "https://www.hyundaicanada.com/-/media/hyundai/showroom/2024/elantra/trims/essential/360/b1afb2/IMG_001.png"
+    },
+    {
+      "name": "Chevrolet Malibu",
+      "img": "https://www.chevrolet.ca/content/dam/chevrolet/global/us/english/index/cars/2023-malibu/01-images/mov/01-images/colorizer/2023-malibu-1sp-gxd-colorizer.jpg?imwidth=600"
+    },
+    {
+      "name": "Nissan Sentra",
+      "img": "https://www.nissan.ca/content/dam/Nissan/Canada/Vehicles/sentra/2024/VAP/Vehicle-Profile/SR_Premium_XKY.png.ximg.l_3_m.smart.png"
+    },
+    {
+      "name": "Subaru Legacy",
+      "img": "https://s7d1.scene7.com/is/image/scom/RAG_P8Y_360e_000?$1000wa$"
+    },
+    {
+      "name": "Ford Fusion",
+      "img": "https://picolio.auto123.com/18photo/ford/2018-ford-fusion-titanium-awd.png"
+    }
+  ]
+}
