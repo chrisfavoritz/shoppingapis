@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "name": "Jeep Wrangler",
+      "img": "https://medias.fcacanada.ca/jellies/renditions/2024/400x255/CC24_JLJL72_2TB_PDS_APA_XXX_XXX_XXX.5af7b891c7de6406cdee6f8f97e5d7ca.png"
+    },
+    {
+      "name": "Subaru Forester",
+      "img": "https://s7d1.scene7.com/is/image/scom/RFA_P8Y_360e_000?$750wa$"
+    },
+    {
+      "name": "Honda HR-V",
+      "img": "https://www.honda.ca/-/media/Brands/Honda/Models/HR-V/2024/Overview/05_Colours/front/colour-picker-front_2023_HRV_LX_2WD_MSM_1.png?h=520&iar=0&w=1248&rev=61f14d94a5c5437a8e13c2a9f3a0b381&hash=F8D689B4BA1C6841811A71859B276B6D"
+    },
+    {
+      "name": "Ford Bronco Sport",
+      "img": "https://shop.ford.ca/cmslibs/content/dam/vdm_ford/live/en_ca/ford/nameplate/broncosport/2024/collections/cyp/BYO_BroncoSport_2024.png"
+    },
+    {
+      "name": "Mazda CX-5",
+      "img": "https://www.mazda.com.au/498f6c/globalassets/settings/vehicle-assets/cx-5/2023-04-bt2/ext-360/maxx/petrol/51k/mazv1660_cx-5_g20_maxx-_auto_rhodium_white_metallic_kdtsaaa_1920x1080px_0001.png"
+    },
+    {
+      "name": "Hyundai Tucson",
+      "img": "https://www.hyundaicanada.com/-/media/hyundai/showroom/2024/tucson/trims/preferred_awd/360/bfc4c9/IMG_001.png"
+    },
+    {
+      "name": "Kia Sportage",
+      "img": "https://www.kia.com/us/content/dam/kia/us/en/vehicles/sportage-hybrid/2023/trims/lx-hev/exterior/adb0b3/360/01.png/jcr:content/renditions/mobile.png"
+    },
+    {
+      "name": "GMC Terrain",
+      "img": "https://www.gmccanada.ca/content/dam/gmc/global/us/english/index/crossovers-suvs/terrain/mov/01-images/2024-terrain-sle-sterling-metallic-779x394-2024_GMC_Terrain_Ext_SUV_AD_01_TXL26_3SA_GXD.png?imwidth=420"
+    },
+    {
+      "name": "Chevrolet Trax",
+      "img": "https://www.chevrolet.ca/content/dam/chevrolet/na/canada/english/index/upcoming/2024-reveal-trax/jellies/2023-trax-cro-1ls-gzb-trimselector.jpg?imwidth=419"
+    },
+    {
+      "name": "Jeep Compass",
+      "img": "https://medias.fcacanada.ca/jellies/renditions/2023/290x185/CC23_MPJM74_2DJ_PW7_APA_XXX_XXX_XXX.9c3a9deb18972b35b632b290dfdf1ed8.png"
+    }
+  ]
+}
