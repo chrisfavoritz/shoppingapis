@@ -2,43 +2,47 @@
   "items": [
     {
       "name": "Rolex",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/05/Rolex-logo-500x278.png"
     },
     {
       "name": "Omega",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2018/10/Omega-logo-500x281.png"
     },
     {
       "name": "TAG Heuer",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2018/10/TAG-Heuer-Logo-500x281.png"
     },
     {
       "name": "Seiko",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2018/10/Seiko-Logo-500x281.png"
     },
     {
       "name": "Casio",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/12/Casio-Logo-500x281.png"
     },
     {
       "name": "Timex",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/09/Timex-Logo-500x313.png"
     },
     {
       "name": "Citizen",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2023/07/Citizen-logo-500x281.png"
     },
     {
       "name": "Fossil",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/09/Fossil-Logo-500x313.png"
     },
     {
       "name": "Apple",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2016/10/Apple-Logo-500x281.png"
     },
     {
-      "name": "Hamilton",
-      "img": "placeholder"
+      "name": "Fitbit",
+      "img": "https://1000logos.net/wp-content/uploads/2017/09/Fitbit-Logo-500x313.png"
+    },
+    {
+      "name": "Garmin",
+      "img": "https://1000logos.net/wp-content/uploads/2021/05/Garmin-logo-500x281.png"
     }
   ]
 }
