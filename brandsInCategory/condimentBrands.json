@@ -2,123 +2,67 @@
   "items": [
     {
       "name": "Heinz Ketchup",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/02/Heinz-Logo-500x250.png"
     },
     {
       "name": "French's Classic Yellow Mustard",
-      "img": "placeholder"
+      "img": "https://mma.prnewswire.com/media/954396/Frenchs_Logo.jpg?p=twitter"
     },
     {
-      "name": "Hellmann's/Best Foods Real Mayonnaise",
-      "img": "placeholder"
+      "name": "Hellmann's Mayonnaise",
+      "img": "https://1000logos.net/wp-content/uploads/2020/07/Hellmanns-Logo-500x313.png"
     },
     {
       "name": "Kraft Miracle Whip",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Miraclewhip_brand_logo.png/800px-Miraclewhip_brand_logo.png"
     },
     {
       "name": "McCormick's Taco Seasoning",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/10/McCormick-logo-500x368.png"
     },
     {
       "name": "Hidden Valley The Original Ranch",
-      "img": "placeholder"
+      "img": "https://www.hiddenvalley.com/wp-content/themes/electro/img/logo_200x200.jpg"
     },
     {
       "name": "Frank's RedHot Original Cayenne Pepper Sauce",
-      "img": "placeholder"
+      "img": "https://mma.prnewswire.com/media/1083656/Franks_Logo.jpg?p=facebook"
     },
     {
       "name": "Grey Poupon Dijon Mustard",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/e/ea/Grey_poupon_logo.png"
     },
     {
       "name": "Sriracha Hot Chili Sauce (Huy Fong Foods)",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Huy_Fong_Foods_logo.png"
     },
     {
       "name": "Tabasco Sauce (McIlhenny Company)",
-      "img": "placeholder"
-    },
-    {
-      "name": "Duke's Real Mayonnaise",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Tabasco_Logo.svg/768px-Tabasco_Logo.svg.png"
     },
     {
       "name": "Sweet Baby Ray's BBQ Sauce",
-      "img": "placeholder"
+      "img": "https://mckeenmetroglebe.com/wp-content/uploads/2019/07/Sweet-Baby-Rays-Logo-600x600.png"
     },
     {
       "name": "Kikkoman Soy Sauce",
-      "img": "placeholder"
+      "img": "https://powellmay.com/wp-content/uploads/2016/10/kikkomanlogo.jpg"
     },
     {
-      "name": "Prego Traditional Italian Sauce",
-      "img": "placeholder"
-    },
-    {
-      "name": "Newman's Own Salad Dressing",
-      "img": "placeholder"
-    },
-    {
-      "name": "Lawry's The Original Seasoned Salt",
-      "img": "placeholder"
-    },
-    {
-      "name": "Goya Salsita Hot Sauce",
-      "img": "placeholder"
-    },
-    {
-      "name": "Pace Chunky Salsa",
-      "img": "placeholder"
-    },
-    {
-      "name": "Cholula Original Hot Sauce",
-      "img": "placeholder"
+      "name": "Tostitos Chunky Salsa",
+      "img": "https://1000logos.net/wp-content/uploads/2021/05/Tostitos-logo-500x281.png"
     },
     {
       "name": "A1 Original Steak Sauce",
-      "img": "placeholder"
-    },
-    {
-      "name": "Lea & Perrins Original Worcestershire Sauce",
-      "img": "placeholder"
-    },
-    {
-      "name": "Bertolli Alfredo Sauce",
-      "img": "placeholder"
-    },
-    {
-      "name": "Ragu Old World Style Traditional Sauce",
-      "img": "placeholder"
-    },
-    {
-      "name": "Bull's-Eye Original BBQ Sauce",
-      "img": "placeholder"
-    },
-    {
-      "name": "Wish-Bone Italian Dressing",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/eb/A1_steaksauce_logo.png"
     },
     {
       "name": "Jif Peanut Butter",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Jif_%28peanut_butter%29_logo.svg/1200px-Jif_%28peanut_butter%29_logo.svg.png"
     },
     {
       "name": "Nutella Hazelnut Spread",
-      "img": "placeholder"
-    },
-    {
-      "name": "Philadelphia Cream Cheese",
-      "img": "placeholder"
-    },
-    {
-      "name": "Daisy Sour Cream",
-      "img": "placeholder"
-    },
-    {
-      "name": "Lipton Onion Soup Mix",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/09/Nutella-Logo-500x313.png"
     }
   ]
 }
