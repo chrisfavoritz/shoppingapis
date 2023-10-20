@@ -2,103 +2,75 @@
   "items": [
     {
       "name": "Oreo",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/07/Oreo-Logo-768x480.png"
     },
     {
       "name": "Chips Ahoy!",
-      "img": "placeholder"
-    },
-    {
-      "name": "Fudgee-O (Christie)",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/logopedia/images/2/2d/Chips_Ahoy%21_brand_logo.png/revision/latest?cb=20190907064531"
     },
     {
       "name": "Bear Paws (Dare)",
-      "img": "placeholder"
+      "img": "https://www.darefoods.com/wp-content/uploads/2021/08/Bear-paws-header-logo-@2x.png"
     },
     {
       "name": "Viva Puffs (Dare)",
-      "img": "placeholder"
+      "img": "https://www.darefoods.com/wp-content/uploads/2021/08/Viva-Puffs-header-logo-@2x.png"
     },
     {
       "name": "Voortman Cookies (Voortman)",
-      "img": "placeholder"
+      "img": "https://voortman.wpenginepowered.com/wp-content/uploads/2017/04/voortman-logo-en.png"
     },
     {
       "name": "Celebration (Leclerc)",
-      "img": "placeholder"
+      "img": "https://leclercfoods.com/system/uploads/2021/04/16/20/18/24/4c25aa9b-dca2-4952-b860-1ae89b70834a/Logo_usa_Orange-min.png"
     },
     {
       "name": "Milano",
-      "img": "placeholder"
+      "img": "https://www.campbellsoupcompany.com/wp-content/uploads/2021/03/Milano-1-300x225.png"
     },
     {
       "name": "Keebler Fudge Stripes",
-      "img": "placeholder"
+      "img": "https://www.keebler.com/assets/images/Logo/KeeblerLogo_new.png"
     },
     {
       "name": "Famous Amos",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b1/Famous_Amos_logo.png"
     },
     {
       "name": "Mrs. Fields Chocolate Chip",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2022/06/Logo-Mrs.-Fields-768x432.png"
     },
     {
-      "name": "Girl Scout Cookies (Thin Mints, Samoas, etc.)",
-      "img": "placeholder"
+      "name": "Girl Scout Cookies",
+      "img": "https://1000logos.net/wp-content/uploads/2023/02/Girl-Scout-logo-768x432.png"
     },
     {
       "name": "Tate's Bake Shop Chocolate Chip",
-      "img": "placeholder"
+      "img": "https://www.tatesbakeshop.com/media/logo/stores/1/Logo_1_.png"
     },
     {
       "name": "Entenmann's Chocolate Chip",
-      "img": "placeholder"
+      "img": "https://cdn.cookielaw.org/logos/7d4c498e-d2aa-4c72-9f38-5126b74a1d58/2c7e3a67-769e-4286-aa23-eef130dd571b/192c4889-3732-4c75-be37-bd6b9ed844b2/entenmanns-logo.png"
     },
     {
-      "name": "Grandma's",
-      "img": "placeholder"
+      "name": "Walker's Shortbread",
+      "img": "https://www.walkersshortbread.com/product_images/uploaded_images/WSL_LOGO_Social_Media.jpg"
     },
     {
-      "name": "Little Debbie Oatmeal Creme Pies",
-      "img": "placeholder"
+      "name": "Little Debbie",
+      "img": "https://littledebbie.com/images/template/logo.png"
     },
     {
-      "name": "Otis Spunkmeyer Chocolate Chip",
-      "img": "placeholder"
+      "name": "Otis Spunkmeyer",
+      "img": "https://www.otisspunkmeyer.com/themes/custom/otis/logo.png"
     },
     {
       "name": "Nutter Butter",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Nutterbutter_brand_logo.png"
     },
     {
-      "name": "Archway Classics Soft Iced Molasses",
-      "img": "placeholder"
-    },
-    {
-      "name": "Voortman Sugar Free Oatmeal",
-      "img": "placeholder"
-    },
-    {
-      "name": "Walkers Shortbread",
-      "img": "placeholder"
-    },
-    {
-      "name": "Lenny & Larry's The Complete Cookie",
-      "img": "placeholder"
-    },
-    {
-      "name": "Enjoy Life Soft Baked Cookies",
-      "img": "placeholder"
-    },
-    {
-      "name": "Lucy's Gluten-Free Chocolate Chip",
-      "img": "placeholder"
-    },
-    {
-      "name": "Pepperidge Farm Farmhouse Thin & Crispy Dark Chocolate Chip",
-      "img": "placeholder"
+      "name": "Pillsbury",
+      "img": "https://www.pillsbury.com/Styles/Themes/PB/Images/pb-logo.png"
     }
   ]
 }
