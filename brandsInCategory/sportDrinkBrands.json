@@ -2,27 +2,27 @@
   "items": [
     {
       "name": "Gatorade",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/10/Gatorade-logo-1024x576.png"
     },
     {
       "name": "Powerade",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/07/Powerade-Logo-768x480.png"
     },
     {
       "name": "BodyArmor",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bodyarmor_logo.png"
     },
     {
       "name": "Vitaminwater",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/logopedia/images/9/93/Vitamin_Water.svg/revision/latest?cb=20150122221526"
     },
     {
       "name": "Propel",
-      "img": "placeholder"
+      "img": "https://contact.pepsico.com/files/propel/brands/1675181018/Propel_Small%20Use%20Logo%20Blue%20Orange_RGB@2x.png"
     },
     {
       "name": "Prime",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/logopedia/images/a/aa/Prime_logo_Ice_Pop.svg/revision/latest/scale-to-width-down/250?cb=20230409205922"
     }
   ]
 }
