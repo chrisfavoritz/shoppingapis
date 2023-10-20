@@ -2,79 +2,75 @@
   "items": [
     {
       "name": "American Airlines",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2016/10/American-Airlines-Logo-500x313.png"
     },
     {
       "name": "United Airlines",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/06/United-Airlines-Logo-500x313.png"
     },
     {
       "name": "Delta Air Lines",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/09/Delta-Air-Lines-Logo-500x313.png"
     },
     {
       "name": "Southwest Airlines",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2019/08/southwest-airlines-logo-500x226.png"
     },
     {
       "name": "Alaska Airlines",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2023/05/Alaska-Airlines-Logo-500x281.png"
     },
     {
       "name": "JetBlue Airways",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2019/12/JetBlue-Airways-Logo-500x281.png"
     },
     {
       "name": "Air Canada",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/03/Air-Canada-Logo-500x313.png"
     },
     {
       "name": "WestJet",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/04/WestJet-Airlines-logo-500x281.png"
     },
     {
       "name": "Spirit Airlines",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/04/Spirit-Airlines-logo-500x281.png"
     },
     {
       "name": "Frontier Airlines",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/03/Frontier-Airlines-Logo-500x313.png"
     },
     {
       "name": "Allegiant Air",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/04/Allegiant-Air-logo-500x281.png"
     },
     {
       "name": "Hawaiian Airlines",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/03/Hawaiian-Airlines-Logo-500x313.png"
     },
     {
       "name": "Aeromexico",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2023/05/Aeromexico-Logo-500x281.png"
     },
     {
       "name": "Volaris",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2023/05/Volaris-Logo-500x281.png"
     },
     {
       "name": "Sun Country Airlines",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/fr/c/c7/Sun-country-airlines-logo-2018.png"
     },
     {
       "name": "Porter Airlines",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2023/05/Porter-Airlines-Logo-500x281.png"
     },
     {
       "name": "Air Transat",
-      "img": "placeholder"
-    },
-    {
-      "name": "Swoop",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2023/05/Air-Transat-Logo-500x281.png"
     },
     {
       "name": "Flair Airlines",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2023/05/Flair-Airlines-Logo-500x281.png"
     }
   ]
 }
