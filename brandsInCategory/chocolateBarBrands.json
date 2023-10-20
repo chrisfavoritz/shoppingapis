@@ -2,83 +2,91 @@
   "items": [
     {
       "name": "Hershey's",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/07/Hershey-Logo-500x313.png"
     },
     {
       "name": "Snickers",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/06/Snickers-Logo-500x281.png"
     },
     {
       "name": "KitKat",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2018/03/Kit-Kat-Logo-500x281.png"
     },
     {
       "name": "Reese's Peanut Butter Cups",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2022/11/Reeses-Logo-500x281.png"
     },
     {
       "name": "Twix",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/07/Twix-Logo-500x313.png"
     },
     {
       "name": "Cadbury",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/09/Cadbury-Logo-500x313.png"
     },
     {
       "name": "Milky Way",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2022/10/Milky-Way-logo-500x295.png"
     },
     {
       "name": "Butterfinger",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/08/Butterfinger-Logo-500x281.png"
     },
     {
       "name": "3 Musketeers",
-      "img": "placeholder"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHU4840ny8mGJCgkfXWJer2qz92Gy3kq2l3mZUiYXE&s"
     },
     {
       "name": "Almond Joy",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Almondjoy_brand_logo.png"
     },
     {
       "name": "M&M's",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2022/10/MMs-logo-500x281.png"
     },
     {
       "name": "Lindt",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/07/Lindt-Logo-500x313.png"
     },
     {
       "name": "Toblerone",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2022/10/Toblerone-logo-500x300.png"
     },
     {
       "name": "Ghirardelli",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ghirardelli_Chocolate_Company_Logo.svg/2560px-Ghirardelli_Chocolate_Company_Logo.svg.png"
     },
     {
       "name": "Ferrero Rocher",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/07/Ferrero-Rocher-Logo-500x313.png"
     },
     {
       "name": "Nestlé Crunch",
-      "img": "placeholder"
+      "img": "https://www.crunchbar.com/themes/custom/themekit/logo.png"
     },
     {
-      "name": "Dove",
-      "img": "placeholder"
+      "name": "Coffee Crisp",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/69/Coffecrisp_brand_logo.png"
     },
     {
-      "name": "Baby Ruth",
-      "img": "placeholder"
+      "name": "Crispy Crunch",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Crispycrunch_logo.png"
+    },
+    {
+      "name": "Smarties",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Nestle_smarties_logo.png"
+    },
+    {
+      "name": "Mars",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mars_Logo.svg/1280px-Mars_Logo.svg.png"
     },
     {
       "name": "Aero",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/b/b9/Aero_chocolate_logo.png"
     },
     {
       "name": "Oh Henry!",
-      "img": "placeholder"
+      "img": "https://www.snackhistory.com/wp-content/uploads/2021/11/Oh-Henry-Logo.jpg"
     }
   ]
 }
