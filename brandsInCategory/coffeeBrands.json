@@ -2,87 +2,95 @@
   "items": [
     {
       "name": "Starbucks",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2023/04/Starbucks-logo-500x281.png"
     },
     {
       "name": "Nespresso",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/03/Nespresso-Logo-500x313.png"
     },
     {
       "name": "Dunkin' Donuts",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2023/04/Dunkin-Donuts-logo-500x281.png"
     },
     {
       "name": "Tim Hortons",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2023/04/Tim-Hortons-logo-500x281.png"
     },
     {
       "name": "Keurig",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Keurig_logo.svg/2560px-Keurig_logo.svg.png"
     },
     {
       "name": "Folgers",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2018/08/Folgers-logo-500x281.jpg"
     },
     {
       "name": "McCafe",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2023/04/McCafe-logo-500x281.png"
     },
     {
       "name": "Peet's Coffee",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Peet%27s_Coffee_logo.svg/1280px-Peet%27s_Coffee_logo.svg.png"
     },
     {
       "name": "Caribou Coffee",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/ff/Caribou1.svg"
     },
     {
       "name": "Maxwell House",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2018/08/Maxwell-House-logo-500x281.jpg"
     },
     {
       "name": "Seattle's Best Coffee",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Seattle%27s_Best_Coffee_logo.svg/1200px-Seattle%27s_Best_Coffee_logo.svg.png"
     },
     {
       "name": "Green Mountain Coffee Roasters",
-      "img": "placeholder"
+      "img": "https://springboardpr.com/wp-content/uploads/2018/06/GMCR_green_RGB.jpg"
     },
     {
       "name": "The Coffee Bean & Tea Leaf",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Coffee_Bean_%26_Tea_Leaf_logo.svg/800px-Coffee_Bean_%26_Tea_Leaf_logo.svg.png"
     },
     {
       "name": "Stumptown Coffee Roasters",
-      "img": "placeholder"
+      "img": "https://lever-client-logos.s3.us-west-2.amazonaws.com/339f1f7a-afb7-4440-b360-4ac4550e755d-1634998845788.png"
     },
     {
       "name": "Blue Bottle Coffee",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Blue_Bottle_Coffee_logo.svg/1200px-Blue_Bottle_Coffee_logo.svg.png"
     },
     {
       "name": "Lavazza",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2018/08/Lavazza-logo-500x281.jpg"
+    },
+    {
+      "name": "Nescafé",
+      "img": "https://1000logos.net/wp-content/uploads/2018/08/Nescaf%C3%A9-logo-500x281.jpg"
     },
     {
       "name": "Eight O'Clock Coffee",
-      "img": "placeholder"
+      "img": "https://s7d4.scene7.com/is/image/keurig/eight_o_clock_eight_oclock_logo_lg?scl=1&fmt=png-alpha"
     },
     {
       "name": "Krispy Kreme",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2018/02/Krispy-Kreme-Logo-500x281.png"
     },
     {
       "name": "Second Cup",
-      "img": "placeholder"
+      "img": "https://secondcup.com/wp-content/uploads/2022/02/second-cup-logo-1.png"
+    },
+    {
+      "name": "Tassimo",
+      "img": "https://1000logos.net/wp-content/uploads/2020/02/Tassimo-Logo-500x313.png"
     },
     {
       "name": "Tully's Coffee",
-      "img": "placeholder"
+      "img": "https://www.tullys.com/etc.clientlibs/keurig-sites/clientlibs/keurig-sites/keurig-brand-sites/tullys/clientlibs/resources/images/tully.png"
     },
     {
       "name": "Allegro Coffee",
-      "img": "placeholder"
+      "img": "https://images.squarespace-cdn.com/content/v1/56d8e608d210b82e9720f5ca/b4729a7d-3c4b-4c75-b387-603b7722dc7f/Secondary+-+reverse.png?format=1500w"
     }
   ]
 }
