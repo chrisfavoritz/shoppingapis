@@ -1,84 +1,128 @@
 {
   "items": [
     {
-      "name": "Kellogg's",
-      "img": "placeholder"
-    },
-    {
-      "name": "General Mills",
-      "img": "placeholder"
-    },
-    {
-      "name": "Post Consumer Brands",
-      "img": "placeholder"
-    },
-    {
-      "name": "Quaker Oats",
-      "img": "placeholder"
-    },
-    {
-      "name": "Nature's Path",
-      "img": "placeholder"
-    },
-    {
-      "name": "Barbara's Bakery",
-      "img": "placeholder"
-    },
-    {
-      "name": "Kashi",
-      "img": "placeholder"
-    },
-    {
-      "name": "Cascadian Farm",
-      "img": "placeholder"
-    },
-    {
-      "name": "Malt-O-Meal",
-      "img": "placeholder"
-    },
-    {
-      "name": "Bear Naked",
-      "img": "placeholder"
-    },
-    {
-      "name": "Ralston Foods",
-      "img": "placeholder"
-    },
-    {
-      "name": "Weetabix",
-      "img": "placeholder"
-    },
-    {
-      "name": "Erewhon",
-      "img": "placeholder"
-    },
-    {
-      "name": "Uncle Sam",
-      "img": "placeholder"
-    },
-    {
-      "name": "Chex",
-      "img": "placeholder"
-    },
-    {
-      "name": "Grape-Nuts",
-      "img": "placeholder"
-    },
-    {
-      "name": "Cap'n Crunch",
-      "img": "placeholder"
-    },
-    {
       "name": "Cheerios",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Cheerios_brand_logo.svg/2560px-Cheerios_brand_logo.svg.png"
     },
     {
       "name": "Froot Loops",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/logopedia/images/0/0a/Froot_Loops_logo.jpg/revision/latest?cb=20110112235951"
     },
     {
       "name": "Lucky Charms",
-      "img": "placeholder"
+      "img": "https://brandsitesplatform-res.cloudinary.com/image/fetch/w_400,c_scale,q_auto:eco,f_auto,fl_lossy,dpr_1.0,e_sharpen:85/https://assets.brandplatform.generalmills.com%2F-%2Fmedia%2Fproject%2Fgmi%2Fcorporate%2Fcorporate-master%2Fimages%2Flogos%2Fbrands%2Flucky-charms-logo-sept-21.jpeg%3Fw%3D500%26rev%3D33763cb057b240c8b0a62baf90f12b0c%20400w"
+    },
+    {
+      "name": "Honeycomb",
+      "img": "https://www.postconsumerbrands.com/honeycomb/wp-content/uploads/sites/29/2018/06/honeycomb.jpg"
+    },
+    {
+      "name": "Honey Bunches of Oats",
+      "img": "https://upload.wikimedia.org/wikipedia/en/0/08/Honey_bunches_oat_logo.png"
+    },
+    {
+      "name": "Pebbles",
+      "img": "https://www.postpebblescereal.com/wp-content/uploads/2018/05/pebbles-logo-1.png"
+    },
+    {
+      "name": "Kellogg's Corn Flakes",
+      "img": "https://www.kelloggs.com/content/dam/NorthAmerica/kelloggs/en_US/images/Brandlogo/Corn-Flakes-Logo_349x208.png"
+    },
+    {
+      "name": "Frosted Flakes",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Frostedflakes_brand_logo.png"
+    },
+    {
+      "name": "Weetabix",
+      "img": "https://upload.wikimedia.org/wikipedia/en/a/ab/Weetabix_logo.png"
+    },
+    {
+      "name": "Chex",
+      "img": "https://www.chex.com/assets/logo3-1e8b2f95db09fd2c85c73c86ee7da509055d6fe5f573a8d0b0c041ce5aa4045b.png"
+    },
+    {
+      "name": "Grape-Nuts",
+      "img": "https://www.grapenuts.com/wp-content/uploads/2018/07/logo-nav-grape-nuts.png"
+    },
+    {
+      "name": "Cap'n Crunch",
+      "img": "https://www.capncrunch.com/sites/capncrunch.com/themes/capncrunch/img/logo-capncrunch.png?2"
+    },
+    {
+      "name": "Kellogg's Corn Pops",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Corn_Pops_logo.svg/1200px-Corn_Pops_logo.svg.png"
+    },
+    {
+      "name": "Honeycomb",
+      "img": "https://www.postconsumerbrands.com/honeycomb/wp-content/uploads/sites/29/2018/06/honeycomb.jpg"
+    },
+    {
+      "name": "Kellogg's",
+      "img": "https://1000logos.net/wp-content/uploads/2020/07/Kelloggs-Logo-500x313.png"
+    },
+    {
+      "name": "General Mills",
+      "img": "https://1000logos.net/wp-content/uploads/2021/11/General-Mills-logo-500x281.png"
+    },
+    {
+      "name": "Post Consumer Brands",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Post_Holdings_logo.svg/1200px-Post_Holdings_logo.svg.png"
+    },
+    {
+      "name": "Quaker Oats",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/5d/Quaker_Oats_logo_2017.png"
+    },
+    {
+      "name": "Nature's Path",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/44/Nature%27s_Path_logo.png"
+    },
+    {
+      "name": "Kashi",
+      "img": "https://www.kashi.ca/content/NorthAmerica/kashi_ca/en_CA/jcr:content/par/commoncontentroot/headerGrid/par/inuitgrid/par/responsiveimage.img.png/1615309163698.png"
+    },
+    {
+      "name": "Honey Nut Cheerios",
+      "img": "https://static.wikia.nocookie.net/fictionalcrossover/images/4/41/Honey_Nut_Cheerios.png/revision/latest?cb=20140125051239"
+    },
+    {
+      "name": "Cinnamon Toast Crunch",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Cinnamon_toastcrunch_logo.png"
+    },
+    {
+      "name": "Special K",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/03/Specialk_brand_logo.png"
+    },
+    {
+      "name": "Raisin Bran",
+      "img": "https://www.raisinbran.com/content/dam/NorthAmerica/raisin-bran/images/site/raisin-bran-logo.png"
+    },
+    {
+      "name": "Apple Jacks",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Apple_jacks_logo.png"
+    },
+    {
+      "name": "Rice Krispies",
+      "img": "https://www.ricekrispies.ca/content/dam/NorthAmerica/ricekrispiesca/images/site/recipesricekrispies-logo.png"
+    },
+    {
+      "name": "Cocoa Puffs",
+      "img": "https://static.wikia.nocookie.net/logopedia/images/b/b4/Brand_logo.png/revision/latest?cb=20180208210505"
+    },
+    {
+      "name": "Frosted Mini-Wheats",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Frosted_Mini-Wheats_logo.svg/1200px-Frosted_Mini-Wheats_logo.svg.png"
+    },
+    {
+      "name": "Golden Grahams",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Goldengrahams_logo.png"
+    },
+    {
+      "name": "Life",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/63/Life_cereal_logo.png"
+    },
+    {
+      "name": "Reese's Puffs",
+      "img": "https://brandsitesplatform-res.cloudinary.com/image/fetch/w_400,c_scale,q_auto:eco,f_auto,fl_lossy,dpr_1.0,e_sharpen:85/https://assets.brandplatform.generalmills.com%2F-%2Fmedia%2Fproject%2Fgmi%2Fcorporate%2Fcorporate-master%2Fimages%2Flogos%2Fbrands%2Freesespuffs_logo.jpeg%3Fw%3D4462%26rev%3D79812093c9054c0aa7e7fd3ca5e505c5%20400w"
     }
   ]
 }
