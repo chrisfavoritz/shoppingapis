@@ -2,43 +2,119 @@
   "items": [
     {
       "name": "Ray-Ban",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/06/Ray-Ban-logo-500x281.png"
     },
     {
       "name": "Warby Parker",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Warby_Parker_logo.svg/2560px-Warby_Parker_logo.svg.png"
     },
     {
       "name": "Zenni Optical",
-      "img": "placeholder"
+      "img": "https://static.zennioptical.com/dev/image/site/logo/zenni-logo.png"
     },
     {
       "name": "EyeBuyDirect",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/97/Eyebuydirect_FullLogo_Gold_%283%29.png"
     },
     {
       "name": "Firmoo",
-      "img": "placeholder"
+      "img": "data:image/png;base64,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"
     },
     {
       "name": "Coastal",
-      "img": "placeholder"
+      "img": "https://coastaleyewearinc.com/wp-content/uploads/2023/08/cropped-LOGO.png"
     },
     {
       "name": "Clearly",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Clearly_logo.svg/2560px-Clearly_logo.svg.png"
     },
     {
       "name": "Oakley",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/05/Oakley-logo-500x281.png"
     },
     {
       "name": "Sunski",
-      "img": "placeholder"
+      "img": "https://sunski.com/cdn/shop/t/19/assets/logo.png?v=93910356138822535191580151426"
     },
     {
       "name": "Quay Australia",
-      "img": "placeholder"
+      "img": "https://www.quayaustralia.com/cdn/shop/files/Logo-QuayLime_1.png?v=1667582902&width=175"
+    },
+    {
+      "name": "Coach",
+      "img": "https://1000logos.net/wp-content/uploads/2016/11/Coach-logo-500x209.png"
+    },
+    {
+      "name": "Nike",
+      "img": "https://1000logos.net/wp-content/uploads/2021/11/Nike-Logo-500x281.png"
+    },
+    {
+      "name": "kate spade",
+      "img": "https://1000logos.net/wp-content/uploads/2021/05/Kate-Spade-logo-500x327.png"
+    },
+    {
+      "name": "Michael Kors",
+      "img": "https://1000logos.net/wp-content/uploads/2017/08/Michael-Kors-Logo-1981-500x281.jpg"
+    },
+    {
+      "name": "Persol",
+      "img": "https://1000logos.net/wp-content/uploads/2021/05/Persol-logo-500x281.png"
+    },
+    {
+      "name": "Lacoste",
+      "img": "https://1000logos.net/wp-content/uploads/2021/05/Lacoste-logo-500x281.png"
+    },
+    {
+      "name": "Tory Burch",
+      "img": "https://1000logos.net/wp-content/uploads/2017/08/Tory-Burch-Logo-500x417.png"
+    },
+    {
+      "name": "Ralph Lauren",
+      "img": "https://1000logos.net/wp-content/uploads/2017/06/Ralph-lauren-Logo-500x313.png"
+    },
+    {
+      "name": "Gucci",
+      "img": "https://1000logos.net/wp-content/uploads/2017/01/Gucci-Logo-500x313.png"
+    },
+    {
+      "name": "Prada",
+      "img": "https://1000logos.net/wp-content/uploads/2017/05/Prada-Logo-500x313.png"
+    },
+    {
+      "name": "Fendi",
+      "img": "https://1000logos.net/wp-content/uploads/2017/01/Fendi-logo-500x213.png"
+    },
+    {
+      "name": "Chanel",
+      "img": "https://1000logos.net/wp-content/uploads/2016/11/Chanel-logo-500x281.png"
+    },
+    {
+      "name": "Dolce & Gabbana",
+      "img": "https://1000logos.net/wp-content/uploads/2021/05/Dolce-and-Gabbana-logo-500x281.png"
+    },
+    {
+      "name": "Burberry",
+      "img": "https://1000logos.net/wp-content/uploads/2016/10/Burberry-Logo-500x281.png"
+    },
+    {
+      "name": "Giorgio Armani",
+      "img": "https://1000logos.net/wp-content/uploads/2021/05/Giorgio-Armani-logo-500x281.png"
+    },
+    {
+      "name": "Yves Saint Laurent",
+      "img": "https://1000logos.net/wp-content/uploads/2020/03/Saint-Laurent-logo-500x280.png"
+    },
+    {
+      "name": "Dior",
+      "img": "https://1000logos.net/wp-content/uploads/2020/01/Dior-Logo-500x281.png"
+    },
+    {
+      "name": "Versace",
+      "img": "https://1000logos.net/wp-content/uploads/2017/06/Versace-logo-500x315.png"
+    },
+    {
+      "name": "Tom Ford",
+      "img": "https://1000logos.net/wp-content/uploads/2021/06/Tom-Ford-logo-500x281.png"
     }
   ]
 }
