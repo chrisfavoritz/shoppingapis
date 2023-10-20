@@ -2,123 +2,119 @@
   "items": [
     {
       "name": "Free People",
-      "img": "placeholder"
+      "img": "https://images.prismic.io/rakuten-europe/6c6f5872-cb57-43fc-a5f1-307dce8bace8_freepeople.png?auto=compress,format"
     },
     {
       "name": "Anthropologie",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2022/08/Brand-Anthropologie-500x281.png"
     },
     {
       "name": "Madewell",
-      "img": "placeholder"
+      "img": "https://cdn.freebiesupply.com/logos/large/2x/madewell-1-logo-png-transparent.png"
     },
     {
       "name": "Lululemon",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/08/Lululemon-Logo-500x414.png"
     },
     {
       "name": "Zara",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2022/08/Zara-log%D0%BE-500x281.png"
     },
     {
       "name": "Aerie",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Aerie_logo.svg/1200px-Aerie_logo.svg.png"
     },
     {
       "name": "Aritzia",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Aritzia_logo_%282017%29.svg/1280px-Aritzia_logo_%282017%29.svg.png"
     },
     {
       "name": "Old Navy",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/02/Old-Navy-logo-500x281.png"
     },
     {
       "name": "Gap",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/12/Gap-Logo-500x333.png"
     },
     {
       "name": "H&M",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/02/HM-Logo-500x313.png"
     },
     {
       "name": "Forever 21",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/05/Forever-21-logo-500x281.png"
     },
     {
       "name": "Uniqlo",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/05/Uniqlo-Logo-500x281.png"
     },
     {
       "name": "American Eagle Outfitters",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/05/American-Eagle-logo-500x281.png"
     },
     {
       "name": "Target",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2022/08/Brand-Target-500x281.png"
     },
     {
       "name": "Abercrombie & Fitch",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2016/10/Abercrombie-and-Fitch-logo-500x256.png"
     },
     {
       "name": "Banana Republic",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/05/Banana-Republic-logo-500x281.png"
     },
     {
       "name": "Levi's",
-      "img": "placeholder"
-    },
-    {
-      "name": "Forever 21",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/03/Levis-Logo-500x250.png"
     },
     {
       "name": "Revolve",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/05/Revolve-logo-500x281.png"
     },
     {
       "name": "Gilly Hicks",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/logopedia/images/b/bf/Gilly_Hicks_2011_%28by_Hollister%29.svg/revision/latest?cb=20220811140617"
     },
     {
       "name": "Hollister",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/02/Hollister-Logo-500x281.png"
     },
     {
       "name": "Urban Outfitters",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2023/04/Urban-Outfitters-Logo-500x281.png"
     },
     {
       "name": "Asos",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/04/Asos-logo-500x281.png"
     },
     {
-      "name": "Amazon",
-      "img": "placeholder"
+      "name": "Amazon Essentials",
+      "img": "https://1000logos.net/wp-content/uploads/2016/10/Amazon-Logo-500x313.png"
     },
     {
       "name": "Mango",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/05/Mango-logo-500x281.png"
     },
     {
       "name": "Skims",
-      "img": "placeholder"
+      "img": "https://cdn.cookielaw.org/logos/e2c47f8f-4a65-434c-899f-d520e15d7e6f/813824d0-3b84-4bb1-a01b-6b1fc55844c0/50f79469-f727-4762-aca3-c1121344b4f2/SKIMS_Logo.png"
     },
     {
       "name": "Boohoo",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/04/Boohoo-Logo-500x281.png"
     },
     {
       "name": "Grey Bandit",
-      "img": "placeholder"
+      "img": "https://cdn.shopify.com/s/files/1/2079/7891/files/logo7_3x-8_ef261c2c-3ab2-4129-8d6d-4de5a6035bad.png?height=628&pad_color=f5f4f2&v=1614291494&width=1200"
     },
     {
       "name": "Garage",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/logopedia/images/3/3e/Garage.svg/revision/latest/scale-to-width-down/250?cb=20180507163543"
     },
     {
       "name": "Dynamite",
-      "img": "placeholder"
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_kEaBCiZw3tJU0WzZIGTlni9IDRp1tAVT9oyc0BjBBUNGVEpGmefkKpewJ_aaOYV3L8k&usqp=CAU"
     }
   ]
 }
