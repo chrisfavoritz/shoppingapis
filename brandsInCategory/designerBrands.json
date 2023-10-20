@@ -2,63 +2,67 @@
   "items": [
     {
       "name": "Gucci",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/01/Gucci-Logo-500x313.png"
     },
     {
       "name": "Louis Vuitton",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/04/Louis-Vuitton-logo-500x281.png"
     },
     {
       "name": "Prada",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/05/Prada-Logo-500x313.png"
     },
     {
       "name": "Chanel",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2016/11/Chanel-logo-500x281.png"
     },
     {
       "name": "Dolce & Gabbana",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/05/Dolce-and-Gabbana-logo-500x281.png"
     },
     {
       "name": "Burberry",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2016/10/Burberry-Logo-500x281.png"
     },
     {
       "name": "Hermes",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/02/Hermes-Logo-500x284.png"
     },
     {
-      "name": "Armani",
-      "img": "placeholder"
+      "name": "Giorgio Armani",
+      "img": "https://1000logos.net/wp-content/uploads/2021/05/Giorgio-Armani-logo-500x281.png"
     },
     {
       "name": "Yves Saint Laurent",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/03/Saint-Laurent-logo-500x280.png"
     },
     {
       "name": "Dior",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/01/Dior-Logo-500x281.png"
     },
     {
       "name": "Versace",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/06/Versace-logo-500x315.png"
     },
     {
       "name": "Fendi",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/01/Fendi-logo-500x213.png"
     },
     {
       "name": "Cartier",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2016/10/Cartier-logo-500x240.png"
+    },
+    {
+      "name": "Balenciaga",
+      "img": "https://1000logos.net/wp-content/uploads/2020/07/Balenciaga-logo-500x333.png"
     },
     {
       "name": "Bottega Veneta",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2018/12/Bottega-Veneta-Logo-500x281.png"
     },
     {
       "name": "Tom Ford",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/06/Tom-Ford-logo-500x281.png"
     }
   ]
 }
