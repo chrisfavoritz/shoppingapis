@@ -2,27 +2,27 @@
   "items": [
     {
       "name": "Sony PlayStation",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/04/PlayStation-logo-500x281.png"
     },
     {
       "name": "Microsoft Xbox",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2018/10/Xbox-logo-500x281.png"
     },
     {
       "name": "Nintendo",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/04/Nintendo-logo-500x281.png"
     },
     {
       "name": "Oculus",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/12/Oculus-logo-500x281.png"
     },
     {
       "name": "Valve",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2023/03/Valve-logo-500x281.png"
     },
     {
       "name": "HTC Vive",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Vive-logo.png"
     }
   ]
 }
