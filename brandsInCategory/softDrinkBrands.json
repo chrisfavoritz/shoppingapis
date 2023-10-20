@@ -2,83 +2,75 @@
   "items": [
     {
       "name": "Coca-Cola",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/05/Coca-Cola-logo-768x432.png"
     },
     {
       "name": "Pepsi",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/05/Pepsi-logo-768x432.png"
     },
     {
       "name": "Dr Pepper",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/10/Dr-Pepper-Logo-1024x640.png"
     },
     {
       "name": "Mountain Dew",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/09/Mountain-Dew-logo-800x717.png"
     },
     {
       "name": "Sprite",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/09/Sprite-Logo-768x432.png"
     },
     {
       "name": "Fanta",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2019/01/Fanta-Logo-768x432.png"
     },
     {
       "name": "7UP",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2018/03/7Up-Logo-768x432.png"
     },
     {
       "name": "A&W Root Beer",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2022/05/AW-Root-Beer-logo-768x432.png"
     },
     {
       "name": "Canada Dry",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/08/Canada-Dry-Logo-768x432.png"
     },
     {
       "name": "Sunkist",
-      "img": "placeholder"
+      "img": "https://marvel-b1-cdn.bc0a.com/f00000000291013/www.sunkist.com/wp-content/themes/sunkist/theme/img/brands/Sunkist_BrandLogo_White.png"
     },
     {
       "name": "Crush",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/logopedia/images/0/02/Crush_2021.png/revision/latest?cb=20220529105031"
     },
     {
-      "name": "Sierra Mist",
-      "img": "placeholder"
+      "name": "Starry",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Starry_Lemon_Lime_Soda.svg/1200px-Starry_Lemon_Lime_Soda.svg.png"
     },
     {
       "name": "Barq's",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2022/12/Barqs-Root-Beer-Logo.png"
     },
     {
       "name": "RC Cola",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/10/Royal-Crown-Cola-logo-768x492.png"
     },
     {
       "name": "Schweppes",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/05/Schweppes-logo-768x432.png"
     },
     {
       "name": "Jones Soda",
-      "img": "placeholder"
+      "img": "https://cdn.shopify.com/s/files/1/1088/7276/files/jonessodaco_logo_new_inverse_8f2c00a5-fd95-4928-862e-0595de07e936.jpg?height=628&pad_color=ffffff&v=1613661763&width=1200"
     },
     {
       "name": "Mello Yello",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/logopedia/images/5/56/Mello_Yello_2015_Wordmark.svg/revision/latest/scale-to-width-down/250?cb=20210724222253"
     },
     {
-      "name": "Cactus Cooler",
-      "img": "placeholder"
-    },
-    {
-      "name": "Cheerwine",
-      "img": "placeholder"
-    },
-    {
-      "name": "Squirt",
-      "img": "placeholder"
+      "name": "Mug Root Beer",
+      "img": "https://1000logos.net/wp-content/uploads/2022/12/Mug-Logo.png"
     }
   ]
 }
