@@ -2,83 +2,95 @@
   "items": [
     {
       "name": "LEGO",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/04/Lego-logo-500x281.png"
     },
     {
       "name": "Mattel",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/09/Mattel-Logo-500x315.png"
     },
     {
       "name": "Hasbro",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2023/03/Hasbro-logo-500x281.png"
     },
     {
       "name": "Fisher-Price",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2022/12/Fisher-Price-Logo-500x300.png"
     },
     {
       "name": "Nerf",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2022/12/Nerf-Logo-500x300.png"
     },
     {
       "name": "Barbie",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2022/12/Barbie-Logo-500x300.png"
     },
     {
       "name": "Hot Wheels",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/09/Hot-Wheels-logo-500x400.png"
     },
     {
       "name": "Playmobil",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2022/12/Playmobil-Logo-500x300.png"
     },
     {
       "name": "Melissa & Doug",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Melissa_%26_Doug_logo.svg/1200px-Melissa_%26_Doug_logo.svg.png"
     },
     {
       "name": "Funko",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2023/10/Funko-Logo-500x281.png"
     },
     {
       "name": "Bandai",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2022/10/Bandai-logo-500x281.png"
     },
     {
       "name": "Spin Master",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/46/Spin_Master_logo.png"
     },
     {
       "name": "Jakks Pacific",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/logopedia/images/0/08/Jakks_Logo.jpg/revision/latest/scale-to-width-down/310?cb=20160113132811"
     },
     {
       "name": "McFarlane Toys",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/gwplc/images/8/89/McFarlane-Toys-Logo.jpg/revision/latest?cb=20231002115318"
     },
     {
       "name": "Little Tikes",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Little_Tikes_logo_2019.svg/1200px-Little_Tikes_logo_2019.svg.png"
     },
     {
       "name": "Mega Bloks",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/logopedia/images/e/ec/Mega_Bloks.svg/revision/latest?cb=20170725165910"
     },
     {
       "name": "Ravensburger",
-      "img": "placeholder"
+      "img": "https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/l4yvoyv4ckznh9eyvitf"
     },
     {
       "name": "Kenner",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/starwars/images/1/12/Kenner-logo.svg/revision/latest?cb=20211230143626"
+    },
+    {
+      "name": "LOL Surprise",
+      "img": "https://1000logos.net/wp-content/uploads/2023/05/LOL-Surprise-Logo-500x281.png"
+    },
+    {
+      "name": "Nintendo",
+      "img": "https://1000logos.net/wp-content/uploads/2022/12/Nintendo-Logo-500x300.png"
+    },
+    {
+      "name": "Disney",
+      "img": "https://1000logos.net/wp-content/uploads/2022/12/Disney-Logo-500x300.png"
     },
     {
       "name": "Playskool",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2022/12/Playskool-Logo-500x300.png"
     },
     {
       "name": "Crayola",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/08/Crayola-Logo-500x313.png"
     }
   ]
 }
