@@ -2,63 +2,63 @@
   "items": [
     {
       "name": "Apple",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2016/10/Apple-Logo-500x281.png"
     },
     {
       "name": "Dell",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/07/Dell-Logo-500x313.png"
     },
     {
       "name": "HP (Hewlett-Packard)",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/02/HP-Log%D0%BE-500x281.png"
     },
     {
       "name": "Lenovo",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/03/Lenovo-Logo-1-500x313.png"
     },
     {
       "name": "Microsoft",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/04/Microsoft-Logo-500x163.png"
     },
     {
       "name": "ASUS",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2016/10/Asus-Logo-500x281.png"
     },
     {
       "name": "Acer",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2016/09/Acer-Logo-500x313.png"
     },
     {
       "name": "MSI (Micro-Star International)",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2018/10/MSI-logo-700x394.png"
     },
     {
       "name": "LG",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/03/LG-Logo-500x281.png"
     },
     {
       "name": "Razer",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2019/09/Razer-logo-500x300.png"
     },
     {
       "name": "Samsung",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/06/Samsung-Logo-2-500x281.png"
     },
     {
       "name": "Toshiba",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/06/Toshiba-Logo-500x155.png"
     },
     {
-      "name": "Alienware (a subsidiary of Dell)",
-      "img": "placeholder"
+      "name": "Alienware",
+      "img": "https://1000logos.net/wp-content/uploads/2022/06/Alienware-logo-500x281.png"
     },
     {
-      "name": "Google (for Chromebooks)",
-      "img": "placeholder"
+      "name": "Google Chromebooks",
+      "img": "https://1000logos.net/wp-content/uploads/2021/05/Google-logo-500x281.png"
     },
     {
       "name": "Huawei",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2018/08/Huawei-Logo-500x281.png"
     }
   ]
 }
