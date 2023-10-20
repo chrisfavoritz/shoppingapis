@@ -2,83 +2,91 @@
   "items": [
     {
       "name": "McDonald's",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/03/McDonalds-logo-500x281.png"
     },
     {
       "name": "Starbucks",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2023/04/Starbucks-logo-500x281.png"
     },
     {
       "name": "Subway",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/06/Subway-logo-500x278.png"
     },
     {
       "name": "Burger King",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2016/10/Burger-King_Logo-500x300.png"
     },
     {
       "name": "Taco Bell",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/06/Taco-Bell-Logo-500x313.png"
     },
     {
       "name": "Wendy's",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/08/Wendys-Logo-500x166.png"
     },
     {
       "name": "Dunkin'",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2023/04/Dunkin-Donuts-logo-500x281.png"
+    },
+    {
+      "name": "A&W",
+      "img": "https://1000logos.net/wp-content/uploads/2022/06/Logo-AW-500x281.png"
+    },
+    {
+      "name": "Carl's Jr",
+      "img": "https://1000logos.net/wp-content/uploads/2022/06/Logo-Carls-Jr.-500x281.png"
     },
     {
       "name": "Chick-fil-A",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/04/Chick-fil-A-logo-500x281.png"
     },
     {
       "name": "Domino's",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2023/04/Dominos-logo-500x281.png"
     },
     {
       "name": "Pizza Hut",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/05/Pizza-Hut-logo-500x345.png"
     },
     {
       "name": "KFC (Kentucky Fried Chicken)",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2017/03/Kfc_logo-500x281.png"
     },
     {
       "name": "Tim Hortons",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2023/04/Tim-Hortons-logo-500x281.png"
     },
     {
       "name": "Panera Bread",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/12/Panera-Bread-logo-500x281.png"
     },
     {
       "name": "Sonic Drive-In",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/SONIC_New_Logo_2020.svg/220px-SONIC_New_Logo_2020.svg.png"
     },
     {
       "name": "Dairy Queen",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/12/Dairy-Queen-Logo-500x315.png"
     },
     {
       "name": "Papa John's",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2023/04/Papa-Johns-logo-500x281.png"
     },
     {
       "name": "Arby's",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2018/04/Arbys-Logo-500x281.png"
     },
     {
       "name": "Little Caesars",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2023/04/Little-Caesars-Logo-500x281.png"
     },
     {
       "name": "Chipotle Mexican Grill",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/04/Chipotle-logo-500x281.png"
     },
     {
       "name": "Popeye's",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/04/Popeyes-logo-500x329.png"
     }
   ]
 }
