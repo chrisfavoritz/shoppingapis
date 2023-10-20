@@ -2,83 +2,75 @@
   "items": [
     {
       "name": "Dove",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/04/Dove-logo-500x281.png"
     },
     {
       "name": "Bath & Body Works",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/07/Bath-Body-Works-Logo-500x281.jpg"
     },
     {
       "name": "Aveeno",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/04/Aveeno-Logo-500x281.png"
     },
     {
       "name": "Lush",
-      "img": "placeholder"
+      "img": "https://res.cloudinary.com/lush/image/upload/f_auto,q_auto/v1535031873/lush_com/social.jpg"
     },
     {
       "name": "The Body Shop",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/04/The-Body-Shop-Logo-500x281.png"
     },
     {
       "name": "Olay",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/04/Olay-logo-500x281.png"
     },
     {
       "name": "Dr. Teal's",
-      "img": "placeholder"
+      "img": "https://www.drteals.co.uk/img/logo/logo.png"
     },
     {
       "name": "Neutrogena",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/04/Neutrogena-Logo-500x281.png"
     },
     {
       "name": "Eucerin",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/04/Eucerin-logo-500x281.png"
     },
     {
       "name": "Burt's Bees",
-      "img": "placeholder"
+      "img": "https://www.burtsbees.ca/wp-content/themes/electro/img/ca_logo.png"
     },
     {
       "name": "Nivea",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/04/Nivea-logo-500x281.png"
     },
     {
       "name": "Johnson & Johnson",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/04/Johnson-Johnson-Logo-500x281.png"
     },
     {
       "name": "Kiehl's",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/04/Kiehls-Logo-500x281.png"
     },
     {
       "name": "Cetaphil",
-      "img": "placeholder"
+      "img": "https://www.cetaphil.ca/on/demandware.static/Sites-Galderma-CA-Site/-/default/dwe26c12c5/images/logo.png"
     },
     {
       "name": "L'Occitane",
-      "img": "placeholder"
+      "img": "https://cdn.cookielaw.org/logos/0e581781-7dcd-4bca-aa15-79e7cda8b268/ed587c89-4a4c-4ecd-a684-6a2a0ef0cfde/L%E2%80%99Occitane_en_Provence_Logo_svg.png"
     },
     {
       "name": "Molton Brown",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/04/Johnson-Johnson-Logo-500x281.pnghttps://1000logos.net/wp-content/uploads/2020/10/Philosophy-logo-500x311.png"
     },
     {
       "name": "Philosophy",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/10/Philosophy-logo-500x311.png"
     },
     {
-      "name": "Origins",
-      "img": "placeholder"
-    },
-    {
-      "name": "Fresh",
-      "img": "placeholder"
-    },
-    {
-      "name": "Bliss",
-      "img": "placeholder"
+      "name": "fresh",
+      "img": "https://cdn.cookielaw.org/logos/db3cf2f9-09f6-47ab-b58f-c5e38cd9dd46/7d4eb811-6def-4c60-8a07-6d948487f649/fae432ef-e4bb-4b6d-9bd8-f301bb2e620d/Fresh-Logo_v2.jpg"
     }
   ]
 }
