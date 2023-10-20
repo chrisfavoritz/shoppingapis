@@ -2,83 +2,87 @@
   "items": [
     {
       "name": "Dove",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/04/Dove-logo-500x281.png"
     },
     {
       "name": "Aveeno",
-      "img": "placeholder"
-    },
-    {
-      "name": "Olay",
-      "img": "placeholder"
-    },
-    {
-      "name": "Neutrogena",
-      "img": "placeholder"
-    },
-    {
-      "name": "Nivea",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/04/Aveeno-Logo-500x281.png"
     },
     {
       "name": "Old Spice",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2021/04/Old-Spice-logo-500x281.png"
     },
     {
-      "name": "Gillette",
-      "img": "placeholder"
+      "name": "Olay",
+      "img": "https://1000logos.net/wp-content/uploads/2021/04/Olay-logo-500x281.png"
     },
     {
-      "name": "Head & Shoulders",
-      "img": "placeholder"
+      "name": "Neutrogena",
+      "img": "https://1000logos.net/wp-content/uploads/2020/04/Neutrogena-Logo-500x281.png"
+    },
+    {
+      "name": "Nivea",
+      "img": "https://1000logos.net/wp-content/uploads/2021/04/Nivea-logo-500x281.png"
+    },
+    {
+      "name": "TRESemmé",
+      "img": "https://theushop.ca/cdn/shop/collections/USHOP_Brand_TRESemme_1200x400_1_1600x.jpg?v=1676319066"
+    },
+    {
+      "name": "Head and Shoulders",
+      "img": "https://1000logos.net/wp-content/uploads/2020/04/Head-Shoulders-Logo-500x282.png"
     },
     {
       "name": "Herbal Essences",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/04/Herbal-Essences-logo-500x303.jpg"
     },
     {
       "name": "Pantene",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2022/05/Pantene-logo-500x281.png"
     },
     {
       "name": "Garnier",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2022/04/Garnier-logo-500x281.png"
     },
     {
-      "name": "L'Oréal",
-      "img": "placeholder"
+      "name": "L'Oreal",
+      "img": "https://1000logos.net/wp-content/uploads/2022/04/LOreal-logo-500x281.png"
     },
     {
       "name": "Cetaphil",
-      "img": "placeholder"
+      "img": "https://www.cetaphil.ca/on/demandware.static/Sites-Galderma-CA-Site/-/default/dwe26c12c5/images/logo.png"
     },
     {
       "name": "Dr. Bronner's",
-      "img": "placeholder"
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Dr_Bronner%27s_Logo_Vertical.svg/1200px-Dr_Bronner%27s_Logo_Vertical.svg.png"
     },
     {
       "name": "Suave",
-      "img": "placeholder"
+      "img": "https://www.suave.com/sk-eu/content/dam/brands/suave/united_states_ofamerica/55440166-suave-logo-bl.png.rendition.380.380.png"
+    },
+    {
+      "name": "Irish Spring",
+      "img": "https://upload.wikimedia.org/wikipedia/en/f/f8/Irish_Spring.png"
     },
     {
       "name": "Burt's Bees",
-      "img": "placeholder"
-    },
-    {
-      "name": "The Body Shop",
-      "img": "placeholder"
+      "img": "https://www.burtsbees.ca/wp-content/themes/electro/img/ca_logo.png"
     },
     {
       "name": "Bath & Body Works",
-      "img": "placeholder"
+      "img": "https://1000logos.net/wp-content/uploads/2020/07/Bath-Body-Works-Logo-500x281.jpg"
     },
     {
       "name": "Lush",
-      "img": "placeholder"
+      "img": "https://res.cloudinary.com/lush/image/upload/f_auto,q_auto/v1535031873/lush_com/social.jpg"
+    },
+    {
+      "name": "The Body Shop",
+      "img": "https://1000logos.net/wp-content/uploads/2020/04/The-Body-Shop-Logo-500x281.png"
     },
     {
       "name": "SheaMoisture",
-      "img": "placeholder"
+      "img": "https://static.wikia.nocookie.net/logopedia/images/6/65/F65BE0A5-3068-4CD1-9153-1DB6BD6A23E9.png/revision/latest?cb=20191228225828"
     }
   ]
 }
