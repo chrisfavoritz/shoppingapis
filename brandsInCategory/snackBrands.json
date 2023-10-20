@@ -1,84 +1,76 @@
 {
   "items": [
     {
-      "name": "Lay's - Classic Potato Chips",
-      "img": "placeholder"
+      "name": "Lay's",
+      "img": "https://1000logos.net/wp-content/uploads/2020/06/Lays-Logo-500x281.png"
     },
     {
-      "name": "Doritos - Nacho Cheese",
-      "img": "placeholder"
+      "name": "Doritos",
+      "img": "https://1000logos.net/wp-content/uploads/2020/07/Doritos-Logo-500x313.png"
     },
     {
-      "name": "Pringles - Original",
-      "img": "placeholder"
+      "name": "Pringles",
+      "img": "https://1000logos.net/wp-content/uploads/2022/10/Pringles-logo-500x281.png"
     },
     {
-      "name": "Ruffles - Original",
-      "img": "placeholder"
+      "name": "Ruffles",
+      "img": "https://www.ruffles.com/sites/ruffles.com/themes/ruffles/img/logo.png"
     },
     {
-      "name": "Cheetos - Crunchy Cheese Flavored Snacks",
-      "img": "placeholder"
+      "name": "Cheetos",
+      "img": "https://1000logos.net/wp-content/uploads/2020/07/Cheetos-Logo-500x313.png"
     },
     {
-      "name": "Tostitos - Scoops! Tortilla Chips",
-      "img": "placeholder"
+      "name": "Tostitos",
+      "img": "https://1000logos.net/wp-content/uploads/2021/05/Tostitos-logo-500x281.png"
     },
     {
-      "name": "Snyder's of Hanover - Pretzels",
-      "img": "placeholder"
+      "name": "Snyder's of Hanover Pretzels",
+      "img": "https://www.snydersofhanover.com/wp-content/uploads/soh_white.png"
     },
     {
-      "name": "Popchips - Sea Salt Potato Chips",
-      "img": "placeholder"
+      "name": "Smartfood",
+      "img": "https://upload.wikimedia.org/wikipedia/en/2/27/Smartfoodpopcorn.png"
     },
     {
-      "name": "Smartfood - White Cheddar Popcorn",
-      "img": "placeholder"
+      "name": "Old Dutch",
+      "img": "https://www.olddutchfoods.ca/thumbnails/userfiles/files/OldDutch_QLH_Logo_Bil_HR%289389%29_370x370cc.jpg"
     },
     {
-      "name": "Cheez-It - Original",
-      "img": "placeholder"
+      "name": "Miss Vickie's",
+      "img": "https://www.tastyrewards.com/themes/brandstheme/src/images/missvickies/logo-miss-vickies.png"
     },
     {
-      "name": "Twinkies - Hostess",
-      "img": "placeholder"
+      "name": "Oreos",
+      "img": "https://1000logos.net/wp-content/uploads/2020/07/Oreo-Logo-500x313.png"
     },
     {
-      "name": "Fritos - Corn Chips",
-      "img": "placeholder"
+      "name": "Humpty Dumpty",
+      "img": "https://upload.wikimedia.org/wikipedia/en/c/c5/Humptydumptysnacks.jpg"
     },
     {
-      "name": "Oreos - Nabisco",
-      "img": "placeholder"
+      "name": "Ritz",
+      "img": "https://images.ctfassets.net/500tr34rpuqw/4YuqIwNBRsA5TIZtyrs2uG/0e0acac669ea38d942144e7a9a234b5d/ritz-logo-2x.png?fm=webp&q=80"
     },
     {
-      "name": "Herr's - Potato Chips",
-      "img": "placeholder"
+      "name": "Reese's",
+      "img": "https://1000logos.net/wp-content/uploads/2022/11/Reeses-Logo-500x281.png"
     },
     {
-      "name": "Ritz - Crackers",
-      "img": "placeholder"
+      "name": "Planters",
+      "img": "https://upload.wikimedia.org/wikipedia/en/8/8e/Planters_logo.png"
     },
     {
-      "name": "Gardetto's - Original Recipe Snack Mix",
-      "img": "placeholder"
+      "name": "KIND Bars",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_for_KIND_Bars_Healthy_Snacks.jpg"
     },
     {
-      "name": "Planters - Salted Peanuts",
-      "img": "placeholder"
+      "name": "Chex Mix",
+      "img": "https://www.chexmix.com/wp-content/themes/avalanche/dist/images/Logo.png"
     },
     {
-      "name": "KIND Bars - Dark Chocolate Nuts & Sea Salt",
-      "img": "placeholder"
-    },
-    {
-      "name": "Chex Mix - Traditional Snack Mix",
-      "img": "placeholder"
-    },
-    {
-      "name": "Goldfish - Cheddar Crackers (Pepperidge Farm)",
-      "img": "placeholder"
+      "name": "Goldfish",
+      "img": "https://www.campbellsoup.ca/wp-content/uploads/2018/09/Goldfish_Logo.png"
     }
   ]
 }
