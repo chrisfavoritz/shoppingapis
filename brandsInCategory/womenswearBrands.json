@@ -1,6 +1,10 @@
 {
   "items": [
     {
+      "name": "Skims",
+      "img": "https://cdn.cookielaw.org/logos/e2c47f8f-4a65-434c-899f-d520e15d7e6f/813824d0-3b84-4bb1-a01b-6b1fc55844c0/50f79469-f727-4762-aca3-c1121344b4f2/SKIMS_Logo.png"
+    },
+    {
       "name": "Free People",
       "img": "https://images.prismic.io/rakuten-europe/6c6f5872-cb57-43fc-a5f1-307dce8bace8_freepeople.png?auto=compress,format"
     },
@@ -95,10 +99,6 @@
     {
       "name": "Mango",
       "img": "https://1000logos.net/wp-content/uploads/2021/05/Mango-logo-500x281.png"
-    },
-    {
-      "name": "Skims",
-      "img": "https://cdn.cookielaw.org/logos/e2c47f8f-4a65-434c-899f-d520e15d7e6f/813824d0-3b84-4bb1-a01b-6b1fc55844c0/50f79469-f727-4762-aca3-c1121344b4f2/SKIMS_Logo.png"
     },
     {
       "name": "Boohoo",
